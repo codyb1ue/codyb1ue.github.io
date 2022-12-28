@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Page specific assets in Jekyll",
-      "description" : "How to set a custom CSS or JS for each page",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/2018/11/12/page-specific-assets-in-jekyll",
-      "date"     : "2018-11-12 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Jekyll reading time without plugins",
       "description" : "The reading time indicator for your website",
       "category" : "",

@@ -145,15 +145,6 @@
     } ,
   
     {
-      "title"    : "Creating navigation menu in Jekyll",
-      "description" : "Using data folder to build Jekyll navigation",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/2017/01/03/creating-navigation-menu-in-jekyll",
-      "date"     : "2017-01-03 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "风吹微微",
       "description" : "",
       "category" : "",

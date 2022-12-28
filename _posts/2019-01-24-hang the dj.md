@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 直到死亡把我们分开
-tags: Journal
+tags: journal
 ---
 
 黑镜 S4E4 “Hang the DJ”，人们使用系统来不停与其他人约会，可以通过系统看到两人能够在一起多久，短则 12 小时，长的 365 天。

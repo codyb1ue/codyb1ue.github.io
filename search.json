@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Jekyll reading time without plugins",
-      "description" : "The reading time indicator for your website",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/09/20/jekyll-reading-time-without-plugins",
-      "date"     : "2018-09-20 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "How to add an RSS feed to a Jekyll blog",
       "description" : "Generate an Atom (RSS-like) feed of your Jekyll posts",
       "category" : "",

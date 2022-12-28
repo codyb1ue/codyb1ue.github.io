@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Adding HTTP response headers to a Netlify static website",
-      "description" : "Increase the security of your Netlify website by adding security headers",
-      "category" : "",
-      "tags"     : "netlify, coding, security",
-      "url"      : "/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
-      "date"     : "2019-05-23 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Syntax highlight with Rouge in Jekyll",
       "description" : "Enable syntax highlighting in your site",
       "category" : "",

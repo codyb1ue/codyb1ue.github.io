@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Staticman comments on a Jekyll site",
-      "description" : "Generating comments on static sites with Staticman",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2019/07/23/staticman-comments-on-a-jekyll-site",
-      "date"     : "2019-07-23 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Adding HTTP response headers to a Netlify static website",
       "description" : "Increase the security of your Netlify website by adding security headers",
       "category" : "",
@@ -79,15 +70,6 @@
       "tags"     : "coding, jekyll",
       "url"      : "/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
       "date"     : "2018-06-07 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Displaying GitHub Gists in Jekyll sites",
-      "description" : "A Liquid tag for Jekyll sites that allows embedding Gists",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/05/13/displaying-github-gists-in-jekyll-sites",
-      "date"     : "2018-05-13 00:00:00 +0000"
     } ,
   
     {

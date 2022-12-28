@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 欧洲社会生活的冷知识
-tags: Record
+tags: record
 ---
 
 英国作家比尔·布莱森的《趣味生活简史》看似是从一个个房间展开去讲家居的历史，但正如其英文标题“a short history of private life”，也是在讲隐私的历史，从最早的大厅式居住，到被划分到不同的房间，每个房间被安排不同的功能。起居室最早被称为“withdrawing room”，意思是“一处家人可以离开家里的其他人以享有更多隐私的空间”。

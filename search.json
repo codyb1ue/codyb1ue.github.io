@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Difference between font formats",
-      "description" : "What is the difference between various font formats?",
-      "category" : "",
-      "tags"     : "typography",
-      "url"      : "/2019/08/31/difference-between-font-formats",
-      "date"     : "2019-08-31 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Staticman comments on a Jekyll site",
       "description" : "Generating comments on static sites with Staticman",
       "category" : "",

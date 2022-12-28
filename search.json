@@ -136,15 +136,6 @@
     } ,
   
     {
-      "title"    : "Quotes In Jekyll",
-      "description" : "This is how quotes look in jekyll",
-      "category" : "",
-      "tags"     : "quotes, jekyll",
-      "url"      : "/2017/02/05/quotes-test",
-      "date"     : "2017-02-05 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "风吹微微",
       "description" : "",
       "category" : "",

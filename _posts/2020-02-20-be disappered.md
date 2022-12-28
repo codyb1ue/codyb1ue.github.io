@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在互联网中被消失
-tags: Journal
+tags: journal
 ---
 
 苏珊·桑塔格的《反对阐释》一书中，译者程巍曾作出以下注解：

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 钥匙和衬衫
-tags: Journal
+tags: journal
 ---
 
 ### 钥匙

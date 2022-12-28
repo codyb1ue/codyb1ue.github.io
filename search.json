@@ -82,6 +82,15 @@
     } ,
   
     {
+      "title"    : "Displaying GitHub Gists in Jekyll sites",
+      "description" : "A Liquid tag for Jekyll sites that allows embedding Gists",
+      "category" : "",
+      "tags"     : "jekyll, coding",
+      "url"      : "/2018/05/13/displaying-github-gists-in-jekyll-sites",
+      "date"     : "2018-05-13 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "风吹微微",
       "description" : "",
       "category" : "",

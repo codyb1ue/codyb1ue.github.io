@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 禅与滑板艺术
-tags: Journal
+tags: journal
 ---
 
 三月初，我让奇奇帮我在淘宝上选滑板，挑了喜欢的图案，两天后我拿到滑板，自此开始了自己的滑板生活。

@@ -118,15 +118,6 @@
     } ,
   
     {
-      "title"    : "Custom 404 page for Jekyll on Github pages",
-      "description" : "Serve custom 404 error pages with Jekyll",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2017/11/15/custom-404-page-for-jekyll-on-github-pages",
-      "date"     : "2017-11-15 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "风吹微微",
       "description" : "",
       "category" : "",

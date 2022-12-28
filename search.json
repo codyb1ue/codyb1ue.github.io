@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "How to add an RSS feed to a Jekyll blog",
-      "description" : "Generate an Atom (RSS-like) feed of your Jekyll posts",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog",
-      "date"     : "2018-09-11 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Top plugins for Wordpress websites",
       "description" : "Wordpress plugins that I deem as a necessity for everyone",
       "category" : "",

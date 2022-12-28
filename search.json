@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Syntax highlight with Rouge in Jekyll",
-      "description" : "Enable syntax highlighting in your site",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/2018/12/23/syntax-highlight-with-rouge-in-jekyll",
-      "date"     : "2018-12-23 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Page specific assets in Jekyll",
       "description" : "How to set a custom CSS or JS for each page",
       "category" : "",

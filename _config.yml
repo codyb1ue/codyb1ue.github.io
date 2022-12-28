@@ -1,6 +1,6 @@
 site: Memozine
 title: Memzoine
-greetings: Hi 👋
+greetings: Memozine
 description: >-
   Es muss sein? Es muss sein!
 lang: en-US
@@ -11,7 +11,7 @@ discus-identifier: # replace with your disqus shortname
 
 author:
   name: Cody
-  bio: just a minimalist, personal blog
+  bio: 
   userpicture: 
   username: # general username
   github: # github username

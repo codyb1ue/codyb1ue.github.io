@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 河马
-tags: Novel
+tags: novel
 ---
 
 ### 快

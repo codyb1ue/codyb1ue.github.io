@@ -1,6 +1,6 @@
 ---
 layout: post
-itle: 银河系漫游歌单
+title: 银河系漫游歌单
 tags: Journal
 ---
 

@@ -4,7 +4,7 @@
  <title>Memzoine</title>
  <link href="https://codyb1ue.github.io/atom.xml" rel="self"/>
  <link href="https://codyb1ue.github.io/"/>
- <updated>2022-12-29T03:20:26+00:00</updated>
+ <updated>2022-12-29T03:27:29+00:00</updated>
  <id>https://codyb1ue.github.io</id>
  <author>
    <name>Cody</name>
@@ -2171,9 +2171,9 @@
  
  <entry>
    <title>城市传播研究笔记</title>
-   <link href="https://codyb1ue.github.io/2017/10/28/urban-commutation-study"/>
+   <link href="https://codyb1ue.github.io/2017/10/28/urban-communication-study"/>
    <updated>2017-10-28T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/10/28/urban commutation study</id>
+   <id>https://codyb1ue.github.io/2017/10/28/urban communication study</id>
    <content type="html">&lt;h2 id=&quot;城市与传播&quot;&gt;城市与传播&lt;/h2&gt;
 &lt;h3 id=&quot;城市定义历史经典评价&quot;&gt;城市：定义、历史、经典评价&lt;/h3&gt;
 
@@ -2318,12 +2318,14 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;参考文献&lt;/em&gt;
-&lt;em&gt;威尔伯·施拉姆、威廉·波特：《传播学概论》，何道宽译，中国人民大学出版社2010年版&lt;/em&gt;
-&lt;em&gt;哈罗德·伊尼斯：《传播的偏向》，何道宽译，中国传媒大学出版社2015年版。&lt;/em&gt;
-&lt;em&gt;崔波：《城市传播：空间化的进路》，中国传媒大学出版社2013年版。&lt;/em&gt;
-&lt;em&gt;方玲玲：《媒介空间论：媒介的空间想象力与城市景观》，中国传媒大学出版社2011年版。&lt;/em&gt;
-&lt;em&gt;黄旦主编：《城市传播：基于中国城市的历史与现实》，上海交通大学出版社2015年版。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;参考文献&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;威尔伯·施拉姆、威廉·波特：《传播学概论》，何道宽译，中国人民大学出版社2010年版。&lt;/li&gt;
+  &lt;li&gt;哈罗德·伊尼斯：《传播的偏向》，何道宽译，中国传媒大学出版社2015年版。&lt;/li&gt;
+  &lt;li&gt;崔波：《城市传播：空间化的进路》，中国传媒大学出版社2013年版。&lt;/li&gt;
+  &lt;li&gt;方玲玲：《媒介空间论：媒介的空间想象力与城市景观》，中国传媒大学出版社2011年版。&lt;/li&gt;
+  &lt;li&gt;黄旦主编：《城市传播：基于中国城市的历史与现实》，上海交通大学出版社2015年版。&lt;/li&gt;
+&lt;/ol&gt;
 </content>
  </entry>
  

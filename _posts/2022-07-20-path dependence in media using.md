@@ -4,7 +4,7 @@ title: 我们当下的媒介使用习惯，是否在很久以前就养成了？
 tags: publish
 ---
 
-本文首发于腾讯新闻 [全媒派](https://sspai.com/link?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F19KF01UVZ7OptP5tuC6KGA) 。
+本文首发于腾讯新闻 [全媒派](https://mp.weixin.qq.com/s/19KF01UVZ7OptP5tuC6KGA) 。
 
 为什么键盘上的字母按照QWERTY的顺序排列？为什么计算机编程总喜欢“Hello, World”？为什么电视剧时长通常为每集45分钟？为什么高铁座位分布是ABCDF却没有E呢……以上种种问题，都可以用“路径依赖”理论（Path-Dependence）加以解释。
 

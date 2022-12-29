@@ -154,6 +154,15 @@
     } ,
   
     {
+      "title"    : "在冷热之间",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2019/03/17/between-cold-and-hot",
+      "date"     : "2019-03-17 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "直到死亡把我们分开",
       "description" : "",
       "category" : "",
@@ -217,12 +226,48 @@
     } ,
   
     {
+      "title"    : "大众社会是幻觉吗",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2018/02/07/mass-society-theory",
+      "date"     : "2018-02-07 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "听障青少年如何使用媒介",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2017/12/14/media-using-of-hearing-impaired-adolescents",
+      "date"     : "2017-12-14 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Es muss sein? Es muss sein",
       "description" : "",
       "category" : "",
       "tags"     : "journal",
       "url"      : "/2017/11/07/es-muss-sein",
       "date"     : "2017-11-07 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "城市传播研究笔记",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2017/10/28/urban-commutation-study",
+      "date"     : "2017-10-28 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "巴别塔与巴别塔毁灭之后",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2017/09/18/after-babel",
+      "date"     : "2017-09-18 00:00:00 +0000"
     } ,
   
     {
@@ -259,6 +304,33 @@
       "tags"     : "novel",
       "url"      : "/2017/01/10/this-and-that",
       "date"     : "2017-01-10 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "媒介事件与媒介仪式",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2017/01/07/media-event-and-media-ritual",
+      "date"     : "2017-01-07 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "非仪式的媒介仪式",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2017/01/05/the-other-media-ritual",
+      "date"     : "2017-01-05 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "媒介与文化研究方法",
+      "description" : "",
+      "category" : "",
+      "tags"     : "record",
+      "url"      : "/2016/12/26/media-and-culture-study",
+      "date"     : "2016-12-26 00:00:00 +0000"
     } ,
   
     {

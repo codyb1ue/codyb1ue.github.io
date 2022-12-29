@@ -1,6 +1,105 @@
 [
   
     {
+      "title"    : "AI画作拿下一等奖：争议之余，再谈媒介对人的延伸",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2022/09/23/ai-generated-content",
+      "date"     : "2022-09-23 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "我们当下的媒介使用习惯，是否在很久以前就养成了？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2022/07/20/path-dependence-in-media-using",
+      "date"     : "2022-07-20 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "无线缰绳：工作和生活的界限还能划清吗？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2022/07/03/wireless-leash",
+      "date"     : "2022-07-03 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "万物皆可“TikTok”：为什么社交平台纷纷做起短视频？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2022/06/28/to-be-tictok",
+      "date"     : "2022-06-28 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "从新闻信到填字游戏：如何看待内容消费的复古潮？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2022/04/01/retro-content-consumption",
+      "date"     : "2022-04-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "短视频也要花钱看了，你的“电子榨菜”还香吗？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2022/03/03/short-video-as-digital-snack",
+      "date"     : "2022-03-03 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "从图文到短视频，内容农场对我们的影响一直都在",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2021/12/05/content-farm",
+      "date"     : "2021-12-05 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "从“废话文学”到“鬼打墙文学”：浅析网络流行用语的排浪式消费",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2021/11/21/sns-memo",
+      "date"     : "2021-11-21 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "元宇宙的真面目，其实是“多元宇宙”？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2021/09/25/metaverse",
+      "date"     : "2021-09-25 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "现代人每天会看150次手机？过剩的信息究竟是如何引人焦虑的？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2021/09/16/fomo-and-ifs",
+      "date"     : "2021-09-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "时间与距离逐渐消亡，我们该如何数字化生存？",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2021/08/27/live-as-a-cyborg",
+      "date"     : "2021-08-27 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "失火",
       "description" : "",
       "category" : "",
@@ -34,6 +133,15 @@
       "tags"     : "journal",
       "url"      : "/2020/02/08/degeneration",
       "date"     : "2020-02-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "回到事物本身",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2019/05/16/to-the-things-themselves",
+      "date"     : "2019-05-16 00:00:00 +0000"
     } ,
   
     {
@@ -136,6 +244,15 @@
     } ,
   
     {
+      "title"    : "乡愁、牧歌和现代生活",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2017/02/15/modern-life",
+      "date"     : "2017-02-15 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "这个男人那个男人",
       "description" : "",
       "category" : "",
@@ -151,6 +268,15 @@
       "tags"     : "novel",
       "url"      : "/2016/12/12/poem2013-2015",
       "date"     : "2016-12-12 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "卢德分子",
+      "description" : "",
+      "category" : "",
+      "tags"     : "publish",
+      "url"      : "/2016/11/09/luddite",
+      "date"     : "2016-11-09 00:00:00 +0000"
     } ,
   
     {

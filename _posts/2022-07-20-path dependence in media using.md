@@ -124,13 +124,13 @@ Newsletter（新闻信）传承了手写传播形式，手写传播最早出现�
 
 [^1]: 张卓元等：《政治经济学大辞典》，北京：经济科学出版社，1998年。
 
-[^2]: [https://www.newscientist.com/article/2200664-the-truth-about-the-qwerty-keyboard/](https://sspai.com/link?target=https%3A%2F%2Fwww.newscientist.com%2Farticle%2F2200664-the-truth-about-the-qwerty-keyboard%2F)
+[^2]: https://www.newscientist.com/article/2200664-the-truth-about-the-qwerty-keyboard/
 
-[^3]: [https://www.thesoftwareguild.com/blog/the-history-of-hello-world/](https://sspai.com/link?target=https%3A%2F%2Fwww.thesoftwareguild.com%2Fblog%2Fthe-history-of-hello-world%2F)
+[^3]: https://www.thesoftwareguild.com/blog/the-history-of-hello-world/
 
 [^4]: [美]汤姆·斯丹迪奇：《社交媒体简史:从莎草纸到互联网》，北京：中信出版社，2019年。
 
-[^5]: 成都商报：《为什么电视剧45分钟一集》，2014年11月29日， [https://e.chengdu.cn/html/2014-11/29/content_499344.htm](https://sspai.com/link?target=https%3A%2F%2Fe.chengdu.cn%2Fhtml%2F2014-11%2F29%2Fcontent_499344.htm)
+[^5]: 成都商报：《为什么电视剧45分钟一集》，2014年11月29日， https://e.chengdu.cn/html/2014-11/29/content_499344.htm
 
 [^6]: [美]汤姆·斯丹迪奇：《社交媒体简史:从莎草纸到互联网》，北京：中信出版社，2019年。
 

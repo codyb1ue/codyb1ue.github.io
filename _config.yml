@@ -4,7 +4,7 @@ greetings: Memozine 📖
 description: >-
   Es muss sein? Es muss sein!
 lang: en-US
-timezone:  China/Beijing
+timezone: Asia/Shanghai
 repo:  # site repo [optional]
 data-theme: light # default theme "dark" | "light"
 discus-identifier: # replace with your disqus shortname

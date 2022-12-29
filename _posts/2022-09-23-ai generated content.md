@@ -110,7 +110,7 @@ AI绘画则将“原子转化为比特”，创作者不再需要动手握笔，
 
 [^1]: [https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed](https://sspai.com/link?target=https%3A%2F%2Fwww.vice.com%2Fen%2Farticle%2Fbvmvqm%2Fan-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed)
 
-[^2]: 全媒派：《媒推荐|年产新闻10亿篇，机器人新闻占领地球！》，2014年10月28日。
+[^2]: 全媒派：《年产新闻10亿篇，机器人新闻占领地球！》，2014年10月28日。
 
 [^3]: 中国日报网：《日本机器人小说家入围文学奖》，2016年3月31日。
 

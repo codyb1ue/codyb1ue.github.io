@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://codyb1ue.github.io/sitemap.xml
+Sitemap: https://memozine.me/sitemap.xml

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Memzoine</title>
- <link href="https://codyb1ue.github.io/atom.xml" rel="self"/>
- <link href="https://codyb1ue.github.io/"/>
- <updated>2022-12-29T05:14:06+00:00</updated>
- <id>https://codyb1ue.github.io</id>
+ <link href="https://memozine.me/atom.xml" rel="self"/>
+ <link href="https://memozine.me/"/>
+ <updated>2022-12-29T05:34:58+00:00</updated>
+ <id>https://memozine.me</id>
  <author>
    <name>Cody</name>
    <email>wangchuang94@foxmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>AI画作拿下一等奖：争议之余，再谈媒介对人的延伸</title>
-   <link href="https://codyb1ue.github.io/2022/09/23/ai-generated-content"/>
+   <link href="https://memozine.me/2022/09/23/ai-generated-content"/>
    <updated>2022-09-23T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2022/09/23/ai generated content</id>
+   <id>https://memozine.me/2022/09/23/ai generated content</id>
    <content type="html">&lt;p&gt;本文首发于腾讯新闻 &lt;a href=&quot;https://mp.weixin.qq.com/s/6WYXH-D4zL9kOA7pVo1afw&quot;&gt;全媒派&lt;/a&gt; 。&lt;/p&gt;
 
 &lt;p&gt;8月底，在美国科罗拉多州博览会的一项艺术比赛中，参赛者Jason Allen凭借《太空歌剧院》获得了第一名，这幅作品是通过一款名为Midjourney的AI绘画工具生成的。&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -169,9 +169,9 @@
  
  <entry>
    <title>我们当下的媒介使用习惯，是否在很久以前就养成了？</title>
-   <link href="https://codyb1ue.github.io/2022/07/20/path-dependence-in-media-using"/>
+   <link href="https://memozine.me/2022/07/20/path-dependence-in-media-using"/>
    <updated>2022-07-20T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2022/07/20/path dependence in media using</id>
+   <id>https://memozine.me/2022/07/20/path dependence in media using</id>
    <content type="html">&lt;p&gt;本文首发于腾讯新闻 &lt;a href=&quot;https://mp.weixin.qq.com/s/19KF01UVZ7OptP5tuC6KGA&quot;&gt;全媒派&lt;/a&gt; 。&lt;/p&gt;
 
 &lt;p&gt;为什么键盘上的字母按照QWERTY的顺序排列？为什么计算机编程总喜欢“Hello, World”？为什么电视剧时长通常为每集45分钟？为什么高铁座位分布是ABCDF却没有E呢……以上种种问题，都可以用“路径依赖”理论（Path-Dependence）加以解释。&lt;/p&gt;
@@ -324,9 +324,9 @@
  
  <entry>
    <title>无线缰绳：工作和生活的界限还能划清吗？</title>
-   <link href="https://codyb1ue.github.io/2022/07/03/wireless-leash"/>
+   <link href="https://memozine.me/2022/07/03/wireless-leash"/>
    <updated>2022-07-03T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2022/07/03/wireless leash</id>
+   <id>https://memozine.me/2022/07/03/wireless leash</id>
    <content type="html">&lt;p&gt;本文首发于 &lt;a href=&quot;https://mp.weixin.qq.com/s/9a0aDFttAhCe2R15_8Ondg&quot;&gt;北京大学社会化媒体研究中心&lt;/a&gt; 。&lt;/p&gt;
 
 &lt;p&gt;“无线缰绳”(wireless leash)&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;是什么？&lt;strong&gt;“无线缰绳”是一种看似无形实则束缚的状态。&lt;/strong&gt;第一次看到这个词语，是在邱林川的《信息时代的世界工厂》。他在书中描绘道：21世纪初，珠三角地区工厂的工人们通过手机形成了工作和情感交流的信息网，工厂老板意识到了手机赋权的影响后，开始禁止工人在工作时间使用手机，但这样的效果并不明显。于是，工厂开始主动购买分发手机，并建立了工厂内部集群网。&lt;/p&gt;
@@ -428,9 +428,9 @@
  
  <entry>
    <title>万物皆可“TikTok”：为什么社交平台纷纷做起短视频？</title>
-   <link href="https://codyb1ue.github.io/2022/06/28/to-be-tictok"/>
+   <link href="https://memozine.me/2022/06/28/to-be-tictok"/>
    <updated>2022-06-28T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2022/06/28/to be tictok</id>
+   <id>https://memozine.me/2022/06/28/to be tictok</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/SNGkcRneodYdJ2a1Xf1iaQ&quot;&gt;全媒派&lt;/a&gt; 》2022年6月27日。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;日前，海外媒体The Verge发布了一则Facebook的内部备忘录，提及要通过做大短视频平台Reels，打造世界级推荐算法、整合Messager应用，将Facebook打造成为一个“发现引擎”（Discovery Engine），帮助人们创作分享有趣内容、增强人与人的关系、生成大大小小的社群、实现经济价值。&lt;/p&gt;
@@ -582,9 +582,9 @@
  
  <entry>
    <title>从新闻信到填字游戏：如何看待内容消费的复古潮？</title>
-   <link href="https://codyb1ue.github.io/2022/04/01/retro-content-consumption"/>
+   <link href="https://memozine.me/2022/04/01/retro-content-consumption"/>
    <updated>2022-04-01T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2022/04/01/retro content consumption</id>
+   <id>https://memozine.me/2022/04/01/retro content consumption</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/kNcogGpA3YlQvwFOiqzlIw&quot;&gt;全媒派&lt;/a&gt; 》2022年3月30日。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Locket，藏在衣服口袋里的相盒吊坠，放着心爱之人的小小照片。如今借助数字技术，它成为一款登上App Store榜首的热门应用，可以在手机桌面上动态更新亲友照片。类似地，尽管数码摄影占据主流，但胶片摄影依然火热。胶片APP成了普通用户的替代品，它们模拟胶片质感和冲洗过程，推崇复古色调和时间戳记。还有最近流行的网络填字游戏Wordle、再度兴起的Newsletter以及销量屡创新高的黑胶唱片，皆是复古潮里的朵朵浪花。&lt;/p&gt;
@@ -694,9 +694,9 @@
  
  <entry>
    <title>短视频也要花钱看了，你的“电子榨菜”还香吗？</title>
-   <link href="https://codyb1ue.github.io/2022/03/03/short-video-as-digital-snack"/>
+   <link href="https://memozine.me/2022/03/03/short-video-as-digital-snack"/>
    <updated>2022-03-03T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2022/03/03/short video as digital snack</id>
+   <id>https://memozine.me/2022/03/03/short video as digital snack</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/gsyMPCgvBTSZKVajZqFtuA&quot;&gt;全媒派&lt;/a&gt;》2022年3月2日，发表版本略有删节。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;作为一种用户表达和内容消费形式，中国的短视频行业萌芽于2013年，在2016年“Papi酱”大火后迎来了快速发展，如今短视频已成为互联网的基础应用，贡献了移动互联网主要时长和流量增量，用户规模已达到8.8亿。&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -810,9 +810,9 @@
  
  <entry>
    <title>从图文到短视频，内容农场对我们的影响一直都在</title>
-   <link href="https://codyb1ue.github.io/2021/12/05/content-farm"/>
+   <link href="https://memozine.me/2021/12/05/content-farm"/>
    <updated>2021-12-05T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/12/05/content farm</id>
+   <id>https://memozine.me/2021/12/05/content farm</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/MWKrIzETmVbWjTaA6431GA&quot;&gt;全媒派&lt;/a&gt;》2021年12月3日&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;过去，很多网友都有过类似的体验：在搜索引擎中输入关键词，会出现成千上万条信息，其中也许刚好有我们需要的，但也夹杂了许多引诱点击却徒劳无获的标题和链接。&lt;/p&gt;
@@ -932,9 +932,9 @@
  
  <entry>
    <title>从“废话文学”到“鬼打墙文学”：浅析网络流行用语的排浪式消费</title>
-   <link href="https://codyb1ue.github.io/2021/11/21/sns-memo"/>
+   <link href="https://memozine.me/2021/11/21/sns-memo"/>
    <updated>2021-11-21T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/11/21/sns memo</id>
+   <id>https://memozine.me/2021/11/21/sns memo</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/IlVTGIO0-4cEsRr8gSWuKg&quot;&gt;全媒派&lt;/a&gt;》2021年11月19日&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;咱就是说，今天这篇文章，属于是什么？整个就是“当代语言艺术”的大动作。咱就是说，也许你一整个无语住了属于是，以为咱不会好好说话了。那么咱就是说，从现在开始，还是要好好聊聊，“鬼打墙文学”以及此前的“废话文学”“发疯文学”等语言表达方式，为何会如此流行，以及反映了什么样的传播心理？从“XX文学”入手，分析其作为近来网络流行的迷因如何用幽默去消解严肃、用有趣打败无聊，又是如何与消费主义语境产生关联的。&lt;/p&gt;
@@ -1056,9 +1056,9 @@
  
  <entry>
    <title>元宇宙的真面目，其实是“多元宇宙”？</title>
-   <link href="https://codyb1ue.github.io/2021/09/25/metaverse"/>
+   <link href="https://memozine.me/2021/09/25/metaverse"/>
    <updated>2021-09-25T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/09/25/metaverse</id>
+   <id>https://memozine.me/2021/09/25/metaverse</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/TtumpR2CSZaDgNlPu0Tp6A&quot;&gt;全媒派&lt;/a&gt;》2021年9月24日&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;今天，我们继续聊元宇宙。&lt;/p&gt;
@@ -1167,9 +1167,9 @@
  
  <entry>
    <title>现代人每天会看150次手机？过剩的信息究竟是如何引人焦虑的？</title>
-   <link href="https://codyb1ue.github.io/2021/09/16/fomo-and-ifs"/>
+   <link href="https://memozine.me/2021/09/16/fomo-and-ifs"/>
    <updated>2021-09-16T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/09/16/FOMO and IFS</id>
+   <id>https://memozine.me/2021/09/16/FOMO and IFS</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/SVOlDmr3HJNIYhB4te-8GA&quot;&gt;全媒派&lt;/a&gt;》2021年9月15日，发表版本略有删节。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;每天，数以亿计的内容在各式各样的社交媒体&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;中形成信息流，我们沉浸其中，花费大量时间阅读、评论或分享。这些信息中，有的关乎“无穷的远方、无数的人们”，因为重要获得了我们的关注，也因为关注而变得更重要。有的则是营销广告、虚假内容、垃圾信息，甚至是争吵谩骂，它们出现在我们眼前，来源和真伪都难以分辨。不管是哪一种信息，如此庞大的体量都会是对人类注意力极限的挑战，最终是福是祸还未可知，但我们迫切需要思考，该如何在这些堆积如山的信息中生活。&lt;/p&gt;
@@ -1271,9 +1271,9 @@
  
  <entry>
    <title>时间与距离逐渐消亡，我们该如何数字化生存？</title>
-   <link href="https://codyb1ue.github.io/2021/08/27/live-as-a-cyborg"/>
+   <link href="https://memozine.me/2021/08/27/live-as-a-cyborg"/>
    <updated>2021-08-27T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/08/27/live as a cyborg</id>
+   <id>https://memozine.me/2021/08/27/live as a cyborg</id>
    <content type="html">&lt;p&gt;&lt;em&gt;本文载于腾讯新闻《&lt;a href=&quot;https://mp.weixin.qq.com/s/ue1zhHpCdFQIo-chAUYpmQ&quot;&gt;全媒派&lt;/a&gt;》2021年8月24日，发表版本略有删节。&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;沉溺于无时间的时间&quot;&gt;沉溺于“无时间的时间”&lt;/h3&gt;
@@ -1384,9 +1384,9 @@
  
  <entry>
    <title>失火</title>
-   <link href="https://codyb1ue.github.io/2021/07/16/fire"/>
+   <link href="https://memozine.me/2021/07/16/fire"/>
    <updated>2021-07-16T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/07/16/fire</id>
+   <id>https://memozine.me/2021/07/16/fire</id>
    <content type="html">&lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
 
 &lt;p&gt;餐厅位于清冷的城郊，旁边是一处石雕公园，但因为疏于管理，石雕们大多面目模糊。安德第一次来到石雕公园的时候，他和前妻还处于热恋阶段。那时的石雕公园是城市最为热闹的地方，石雕们形态各异，不乏复刻的旧作和雕塑家的新品，游客成群结队地漫步欢笑，抚摸着石雕将它们逐个擦得锃亮。&lt;/p&gt;
@@ -1459,9 +1459,9 @@
  
  <entry>
    <title>欧洲社会生活的冷知识</title>
-   <link href="https://codyb1ue.github.io/2021/05/20/a-short-history-of-private-life"/>
+   <link href="https://memozine.me/2021/05/20/a-short-history-of-private-life"/>
    <updated>2021-05-20T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/05/20/a short history of private life</id>
+   <id>https://memozine.me/2021/05/20/a short history of private life</id>
    <content type="html">&lt;p&gt;英国作家比尔·布莱森的《趣味生活简史》看似是从一个个房间展开去讲家居的历史，但正如其英文标题“a short history of private life”，也是在讲隐私的历史，从最早的大厅式居住，到被划分到不同的房间，每个房间被安排不同的功能。起居室最早被称为“withdrawing room”，意思是“一处家人可以离开家里的其他人以享有更多隐私的空间”。&lt;/p&gt;
 
 &lt;p&gt;还是在讲社会阶级的历史，那些社会底层的奴隶、或者后来的仆人，和他们的身份一样，也被安排在房子的底层，甚至是要求隐藏的。贵族或者中产阶级的生活之下，是各个仆人的操劳。这本书主要在描绘欧洲或者更局限在英国，更是一个英国社会发展简史。&lt;/p&gt;
@@ -1536,9 +1536,9 @@
  
  <entry>
    <title>人造的梦</title>
-   <link href="https://codyb1ue.github.io/2021/04/25/make-dream"/>
+   <link href="https://memozine.me/2021/04/25/make-dream"/>
    <updated>2021-04-25T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2021/04/25/make dream</id>
+   <id>https://memozine.me/2021/04/25/make dream</id>
    <content type="html">&lt;p&gt;戏剧源于古希腊的酒神祭祀仪式，悲剧的前身是酒神颂歌，喜剧的前身是民间的祭神歌舞和滑稽戏。这是外国文学史课程上学到的知识点。此外我和戏剧的关联就是看过一场毕业演出《恋爱的犀牛》。&lt;/p&gt;
 
 &lt;p&gt;最近，很偶然的，在一个无聊的周末，打开电视，点播了推荐页面上的一个真人秀节目《戏剧新生活》。黄磊引出了戏剧人，戏剧人引出了“戏剧可以赚钱吗”的问题，问题引出了往后两个月的故事，故事让人落泪。&lt;/p&gt;
@@ -1574,9 +1574,9 @@
  
  <entry>
    <title>折叠的城市</title>
-   <link href="https://codyb1ue.github.io/2020/02/26/folding-city"/>
+   <link href="https://memozine.me/2020/02/26/folding-city"/>
    <updated>2020-02-26T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2020/02/26/folding city</id>
+   <id>https://memozine.me/2020/02/26/folding city</id>
    <content type="html">&lt;p&gt;前面的文章讲传播、媒介或者影视，“我”似乎隐藏在文字背后，始终是一种缺席的状态。今天我从自身的生命体验，谈些和每个人都息息相关的事情。&lt;/p&gt;
 
 &lt;p&gt;在上海已经工作生活半年有余，对它的了解较多来自城市新闻、地铁线路、商场餐厅，或者是同事朋友之间的闲碎言语。离开了成长的地方，这里的一切都在慢慢熟悉。城市新闻是了解它的重要方式，它让人有一种遥远的参与感，仿佛正在融入其中成为和它休戚与共的一部分。但另一方面，地铁线路或者商场餐厅却在肢解这种关联感。地铁运送着成群的陌生人，前往陌生人聚集的商场，一次次停靠和一个个地点，无法制造出公共空间，也无法催生参与感。&lt;/p&gt;
@@ -1607,9 +1607,9 @@
  
  <entry>
    <title>任意门与Windows</title>
-   <link href="https://codyb1ue.github.io/2020/02/22/door-and-windows"/>
+   <link href="https://memozine.me/2020/02/22/door-and-windows"/>
    <updated>2020-02-22T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2020/02/22/door and windows</id>
+   <id>https://memozine.me/2020/02/22/door and windows</id>
    <content type="html">&lt;p&gt;在 19 世纪或者更早的人类历史上，信息的移动在本质上被看作是人或物的位移过程，“传播”即是“交通”。随着电子媒介的出现，信息逐渐从人体中挣脱，从物质载体中逃离，开始在空中扩散传播。人们可以在电报中、在电话的听筒里、在收音机的喇叭中、在电视机的声画中获取信息，速度也快于过去的“运输”。&lt;/p&gt;
 
 &lt;p&gt;数字媒介再次改变了这种信息传播和信息获取的效率，人们从被动的信息接受者转变为主动的信息生产者，交流愈发迅速，一触即发，一呼百应，而目前可乘坐的最快的交通工具，也只是飞机或高铁。传播和交通在过去形成的紧密关系，早已不复存在。&lt;/p&gt;
@@ -1642,9 +1642,9 @@
  
  <entry>
    <title>在互联网中被消失</title>
-   <link href="https://codyb1ue.github.io/2020/02/20/be-disappered"/>
+   <link href="https://memozine.me/2020/02/20/be-disappered"/>
    <updated>2020-02-20T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2020/02/20/be disappered</id>
+   <id>https://memozine.me/2020/02/20/be disappered</id>
    <content type="html">&lt;p&gt;苏珊·桑塔格的《反对阐释》一书中，译者程巍曾作出以下注解：&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1665,9 +1665,9 @@
  
  <entry>
    <title>从平原到高级住宅的游历</title>
-   <link href="https://codyb1ue.github.io/2020/02/10/from-country-to-urban"/>
+   <link href="https://memozine.me/2020/02/10/from-country-to-urban"/>
    <updated>2020-02-10T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2020/02/10/from country to urban</id>
+   <id>https://memozine.me/2020/02/10/from country to urban</id>
    <content type="html">&lt;p&gt;《平原上的夏洛克》由徐磊导演，在 FIRST 中国青年电影展竞赛获得“最佳电影文本”奖。电影从一起车祸开始，借助“夏洛克们”的三段游历，找寻肇事者。最终，车祸依然成谜，但“夏洛克们”的游历显露出了现代生活的几个面向。&lt;/p&gt;
 
 &lt;p&gt;在影片中，我们可以看到当村民从辽阔的田野平原，走向文明卫生的都市时，他们需要翻越什么，又被什么所禁锢。还可以看到监控摄像头如何成为一个线索，又如何破坏线索，甚至让人蒙上嫌疑。游历是共时并置的，但生活却层层递进。&lt;/p&gt;
@@ -1724,9 +1724,9 @@
  
  <entry>
    <title>退化</title>
-   <link href="https://codyb1ue.github.io/2020/02/08/degeneration"/>
+   <link href="https://memozine.me/2020/02/08/degeneration"/>
    <updated>2020-02-08T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2020/02/08/degeneration</id>
+   <id>https://memozine.me/2020/02/08/degeneration</id>
    <content type="html">&lt;p&gt;工作之后，每天敲击键盘写的一篇篇文稿，都是谋生的差事，那种主题内容和表达方式会影响一个人。公文的写作是冰冷的，让我在除此之外的写作上，失去了想象力。我已经写不出那些探索性的、呼之欲出的、灵光乍现的文章，也不再那么迫切地想要在小说的写作中隐身，曲折地表达。工作没有彻底让我成为社畜，而是把我改造成为一个机器，完成任务的写字机器。如果被问及我是否愿意过这样的生活，回答是肯定的。工作为我提供物质养料，每月20号准时发放的工资，就是我出租甚至出卖自己的酬劳。但工作让我精神贫瘠，琐碎的事宜正在构成一个琐碎的我。&lt;/p&gt;
 
 &lt;p&gt;我还是会想去记录些什么，比如这次漫长的春节假期下，整个社会生活的停滞，而酿成这桩悲剧的绝非一个传染性较强的病毒，它就像是一道难题，测试的是我们如何去解答。李文亮之死也不是一个英雄的坠落，而仅仅是一个普通人，被压垮了。他的死亡是一种普遍的死亡，我们可以看到自己是如何被训诫又被利用。显然，解答漏洞百出。千城一面也不仅是外部的楼宇、商场和消费景观，武汉可以是任何其他的城市，李文亮可以是任何其他的人，是我们。&lt;/p&gt;
@@ -1739,9 +1739,9 @@
  
  <entry>
    <title>浪漫的和粗劣的乡村</title>
-   <link href="https://codyb1ue.github.io/2019/12/06/romantic-or-vulgar-country"/>
+   <link href="https://memozine.me/2019/12/06/romantic-or-vulgar-country"/>
    <updated>2019-12-06T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/12/06/romantic or vulgar country</id>
+   <id>https://memozine.me/2019/12/06/romantic or vulgar country</id>
    <content type="html">&lt;p&gt;繁忙的都市生活给人们带来了压力与浮躁，有调查显示大约40.4%的人希望从都市搬到乡村，远离嘈杂拥挤的生活环境。《向往的生活》以此为出发点，邀请明星来到精心设置的农家乐舞台，亲自劳作、享受生活，为的是“呼吸自然的空气，寻找内心的声音”。&lt;/p&gt;
 
 &lt;p&gt;和综艺节目对乡村的人为布景不同，电视纪录片《记住乡愁》则把镜头对准了中国各地的传统村落，通过展现自然乡土和风俗人情，来回味人们的“精神家园”。这暗示着乡村是传统的储存器，对乡村生活的影像表达，是为了唤醒乡愁记忆，实现“文化寻根”。&lt;/p&gt;
@@ -1772,9 +1772,9 @@
  
  <entry>
    <title>作为疾病的怀旧</title>
-   <link href="https://codyb1ue.github.io/2019/09/29/nostalgia-as-illness"/>
+   <link href="https://memozine.me/2019/09/29/nostalgia-as-illness"/>
    <updated>2019-09-29T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/09/29/nostalgia as illness</id>
+   <id>https://memozine.me/2019/09/29/nostalgia as illness</id>
    <content type="html">&lt;p&gt;在《午夜巴黎》中，吉尔偶然坐上一架马车，加入了名流的派对：海明威、毕加索、菲茨杰拉德…… 他结识了这些赫赫有名的文化人物，却又发现人们和自己一样，都不太满意自己现在的处境，而陷入怀旧的情绪，向往过去的生活。导演伍迪·艾伦借角色之口，吐槽了吉尔，说他有“黄金时代情结”(Golden Age Thinking)，总是认为别的时代比自己现在生活的时代更好。&lt;/p&gt;
 
 &lt;p&gt;与“黄金时代情结”类似的，斯维特兰娜·博伊姆在《怀旧的未来》中提到了“侏罗纪公园综合症”：一种借助技术手段重现过去、甚至是前历史的大众怀旧。她写道：“恐龙是怀旧工业的理想动物，因为没有人记得它们的样子。”这种怀旧是田园式技术制造的梦幻故事，尽管恐怖，但总能战胜恐怖，它既把怀旧通俗化，又使其商业化。但和《午夜巴黎》所透露出来的怀旧与“黄金时代情结”不同的是，《侏罗纪公园》及其综合症超脱了心理学，而是一种神话怀旧，象征着对前历史与野蛮自然的征服，以及对国家英雄身份的建构。&lt;/p&gt;
@@ -1799,9 +1799,9 @@
  
  <entry>
    <title>回到事物本身</title>
-   <link href="https://codyb1ue.github.io/2019/05/16/to-the-things-themselves"/>
+   <link href="https://memozine.me/2019/05/16/to-the-things-themselves"/>
    <updated>2019-05-16T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/05/16/to the things themselves</id>
+   <id>https://memozine.me/2019/05/16/to the things themselves</id>
    <content type="html">&lt;p&gt;我的专业是传播学，一门在字面上很容易被误解为“船舶学”或病毒传播的学科，但其实，这门学科主要的研究对象是信息和媒介，可以被经典地概括为什么人通过什么媒介，向什么人发布了什么信息，最终产生了什么影响。&lt;/p&gt;
 
 &lt;p&gt;刚入学的时候，我对传播学研究一片茫然，只是知道传播学的相关概念和理论，却不知道如何用传播学的视角理解社会现象。我的导师张老师带我入门，给我布置了阅读任务，希望我从中找到自己的兴趣点，这些阅读书目主要分为两大类：返回原典和跨学科。&lt;/p&gt;
@@ -1826,9 +1826,9 @@
  
  <entry>
    <title>野草莓</title>
-   <link href="https://codyb1ue.github.io/2019/05/06/wild-strawberry"/>
+   <link href="https://memozine.me/2019/05/06/wild-strawberry"/>
    <updated>2019-05-06T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/05/06/wild strawberry</id>
+   <id>https://memozine.me/2019/05/06/wild strawberry</id>
    <content type="html">&lt;p&gt;这个季节的风总是在夜里忽然撞上玻璃，如果我不小心给窗户留了缝，它就会带着嘶鸣的怒意钻进来，把我从梦里叫醒。我必须睡眼惺忪地起身，在昏暗中探测拖鞋的位置，然后关紧窗户，轻轻地，以免吵醒熟睡的西西。她总是把头蒙在被子里，冬天的时候她希望借此取暖，现在她为了保持一种不被打扰的姿态。我在一篇小说里写道过，尽管“哈扎尔辞典”认为熟睡的时候乃是一个人最为脆弱之际，但显然在清醒时刻，我们更容易被击溃。西西睡着，暂时地离开世界，我在黑暗中仿佛成了一个守夜的卫兵，保护她的安全。我清醒着，不管是因为窗外的风，还是口干喝水，我都被留下来了。窗户紧闭的房间一片阒静，我赤身裸体，没有武器，这是击溃我的绝好时刻。&lt;/p&gt;
 
 &lt;p&gt;即使到了白天，风依然没有停歇的迹象。我从六楼俯看槐树，坚实的树干稳固地杵在街道两旁，柔韧的枝叶却被风任意摆布，羽毛球和风筝被吹落了，塑料袋又粘上来，叶子被抖去微尘，别的灰土又来重新染色。我怀疑每一棵树都长成了风的形状，每一个人都长成了境遇的模样。西西和我的意见相反，她对我诉说昨夜的梦，梦里她在等候地铁，她需要在地下漫长的穿行，从一端去往城市的另一端。她不知道那趟地铁何时到站、开门，她何时才能走进去并占据一个心仪的位置，她甚至不知道她要去另一端做什么。她说，人在做梦的时候会丧失感官能力，比如她不能借助听觉去判断，只能站在空荡的隧道旁，向洞穴深处打望，猜测地铁是不是要来了。&lt;/p&gt;
@@ -1917,9 +1917,9 @@
  
  <entry>
    <title>在冷热之间</title>
-   <link href="https://codyb1ue.github.io/2019/03/17/between-cold-and-hot"/>
+   <link href="https://memozine.me/2019/03/17/between-cold-and-hot"/>
    <updated>2019-03-17T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/03/17/between cold and hot</id>
+   <id>https://memozine.me/2019/03/17/between cold and hot</id>
    <content type="html">&lt;p&gt;“冷”和“热”不仅被用来形容人对外界温度的生理感受，夏天热、冬天冷，多喝热水、摆脱冷气。还被用来形容人对外部环境的心理感受，冷漠热淡、热情热心，鲁迅用《热风》(1925)收录杂文，相反，鲍德里亚用《冷记忆》(1987)集纳微博般的灵感碎片。在人文社科的研究中，“冷”和“热”还被用来形容社会、记忆和媒介，正如词义上的差异，它们带来某种对立，有时是二元的、线性的，有时是彼此转化的。&lt;/p&gt;
 
 &lt;h3 id=&quot;冷社会---热社会&quot;&gt;冷社会 - 热社会&lt;/h3&gt;
@@ -1950,9 +1950,9 @@
  
  <entry>
    <title>我要赞颂的是一条尾巴</title>
-   <link href="https://codyb1ue.github.io/2019/02/25/zhou-hao-s-documentary-film"/>
+   <link href="https://memozine.me/2019/02/25/zhou-hao-s-documentary-film"/>
    <updated>2019-02-25T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/02/25/zhou hao‘s documentary film</id>
+   <id>https://memozine.me/2019/02/25/zhou hao‘s documentary film</id>
    <content type="html">&lt;p&gt;看周浩的第一部纪录片是《大同》(2015)，他贴身拍摄一位中国市长，就像是一只“趴在墙上的苍蝇”。在他的镜头下，我看到了大同市的旧城改造，和这位被称为“耿拆拆”的市长的文化抱负。这部片子在豆瓣上是没有条目的，但是周浩这个名字让我产生了好奇。&lt;/p&gt;
 
 &lt;p&gt;我搜索下载了周浩的九部纪录片，每部都是八九十分钟，而且内容各有不同，自成一体。与《大同》相似的是《书记》(2009)，周浩拍摄了一位县委书记。不同的是，《书记》是觥筹交错、莺歌燕舞的，更像是一个真实的官场。&lt;/p&gt;
@@ -1989,9 +1989,9 @@
  
  <entry>
    <title>归途列车</title>
-   <link href="https://codyb1ue.github.io/2019/02/03/last-train-home"/>
+   <link href="https://memozine.me/2019/02/03/last-train-home"/>
    <updated>2019-02-03T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/02/03/last train home</id>
+   <id>https://memozine.me/2019/02/03/last train home</id>
    <content type="html">&lt;p&gt;2019 年初上映的《地球最后的夜晚》，引发了强烈的争议，人们围绕着电影艺术与票房营销的心理落差，讨论着导演毕赣如何展现一个关于故乡的回忆和梦境。和上一部影片《路边野餐》一样，毕赣再次选择贵州凯里展开故事，并沿用黑色电影的模型，将自己喜爱的元素：回忆、梦想、现实，拼接在一起，构造出一副绚丽的影像。&lt;/p&gt;
 
 &lt;p&gt;那种线性叙事的简单明了被搁置了，让位于导演的意识流表达，也正因为这种拼接，作者电影遭遇了错位的观众，他们在“沉闷”的故事前走神了、睡着了、离场了，甚至破坏了荧幕。作者电影一般具有较强的私影像气质，像是一本文学著作，作者不希望简单讲述一个故事，而希望在电影之中寄托更多的自我意识。在《十三邀》中，许知远来到了毕赣的家里，他们的对话中，毕赣表示他的电影更像是一种对自我的探索。&lt;/p&gt;
@@ -2026,9 +2026,9 @@
  
  <entry>
    <title>大象在满洲里悲鸣</title>
-   <link href="https://codyb1ue.github.io/2019/01/31/an-elephant-sitting-still"/>
+   <link href="https://memozine.me/2019/01/31/an-elephant-sitting-still"/>
    <updated>2019-01-31T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/01/31/an elephant sitting still</id>
+   <id>https://memozine.me/2019/01/31/an elephant sitting still</id>
    <content type="html">&lt;p&gt;看了《大象席地而坐》导演剪辑版，将近四个小时的电影长度，容纳了一天的故事。高中的男孩女孩，破碎的家庭关系，很容易让人联想到岩井俊二的残酷青春，但这部影片的天空是如此阴沉，增加了太多粗砺的气质，让人致郁。电影导演胡波已经去世，他的抑郁状态显露在电影的每一个镜头和对白之中，也因此，电影的主题非常暗黑和绝望。&lt;/p&gt;
 
 &lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
@@ -2069,9 +2069,9 @@
  
  <entry>
    <title>被发明的五福传统</title>
-   <link href="https://codyb1ue.github.io/2019/01/26/inventing-five-fu-s-tradition"/>
+   <link href="https://memozine.me/2019/01/26/inventing-five-fu-s-tradition"/>
    <updated>2019-01-26T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/01/26/inventing five fu’s tradition</id>
+   <id>https://memozine.me/2019/01/26/inventing five fu’s tradition</id>
    <content type="html">&lt;p&gt;今天，你集五福了吗？&lt;/p&gt;
 
 &lt;p&gt;没错，一年一度的支付宝的五福活动又开始了。说是“一年一度”，但支付宝第一次推出五福活动也不过是在 2016 年。在 2017 年，五福活动再次出现的时候，我写了一段备忘：如果集福持续下去，它很可能会像放鞭炮、吃饺子、发红包，甚至看春晚一样，成为一种惯习或者仪式。&lt;/p&gt;
@@ -2116,9 +2116,9 @@
  
  <entry>
    <title>直到死亡把我们分开</title>
-   <link href="https://codyb1ue.github.io/2019/01/24/hang-the-dj"/>
+   <link href="https://memozine.me/2019/01/24/hang-the-dj"/>
    <updated>2019-01-24T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/01/24/hang the dj</id>
+   <id>https://memozine.me/2019/01/24/hang the dj</id>
    <content type="html">&lt;p&gt;黑镜 S4E4 “Hang the DJ”，人们使用系统来不停与其他人约会，可以通过系统看到两人能够在一起多久，短则 12 小时，长的 365 天。&lt;/p&gt;
 
 &lt;p&gt;故事的两个主角第一次见面，只有 12 个小时。他们都是第一次使用，不知道如何是好，干冷的笑话，尴尬的聊天，拘束的举止。躺在床上的时候，他们也很老实，只是握了握手，没有更进一步的举动。&lt;/p&gt;
@@ -2145,9 +2145,9 @@
  
  <entry>
    <title>时间切除</title>
-   <link href="https://codyb1ue.github.io/2019/01/14/time-cutting"/>
+   <link href="https://memozine.me/2019/01/14/time-cutting"/>
    <updated>2019-01-14T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2019/01/14/time cutting</id>
+   <id>https://memozine.me/2019/01/14/time cutting</id>
    <content type="html">&lt;p&gt;上周读书会，我们一起聊天讨论，从传统文化到社会问题，从综艺节目到电视剧。其中有一个小插曲，张老师说她最近在看电视剧，同学说可以在网上看，张老师说她喜欢电视播放的“延迟”感，插补一些广告，可以想想剧情如何发展，思考为什么这么演。接着她又说：&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;如果在电脑上看，可以看一整天，那么这一天就别想做别的事情了。&lt;/p&gt;
@@ -2185,9 +2185,9 @@
  
  <entry>
    <title>被电视机制造的鬼魂</title>
-   <link href="https://codyb1ue.github.io/2018/12/28/ghost-from-television"/>
+   <link href="https://memozine.me/2018/12/28/ghost-from-television"/>
    <updated>2018-12-28T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/12/28/ghost from television</id>
+   <id>https://memozine.me/2018/12/28/ghost from television</id>
    <content type="html">&lt;p&gt;在之前的文章中，我曾两次提到“空屋之声”，这个故事让我印象深刻，也让我联想到日本电影《午夜凶铃》。电影中，名为“贞子”的鬼魂寄居在录像带中，观看的人在七天内会因诅咒而死，而破解的方法是把录像带复制给其他人。&lt;/p&gt;
 
 &lt;p&gt;这个电影很像“诅咒信”的变式，通过将诅咒信转发给其他人，来消除自身的危险。批量复制的诅咒之物，并未稀释本雅明式的鬼魂“灵晕”，而是为它提供了更多依附的媒介。&lt;/p&gt;
@@ -2232,9 +2232,9 @@
  
  <entry>
    <title>钱多斯时刻与“第二手”存在</title>
-   <link href="https://codyb1ue.github.io/2018/12/22/chandos-moment"/>
+   <link href="https://memozine.me/2018/12/22/chandos-moment"/>
    <updated>2018-12-22T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/12/22/chandos moment</id>
+   <id>https://memozine.me/2018/12/22/chandos moment</id>
    <content type="html">&lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
 
 &lt;p&gt;一次失败的考试，让你怀疑自己的智商甚至放弃学业。或者，因为某种漫不经心的语气，你对朋友丧失信心，最终质疑人与人之间交流的可能。再或者，仅仅是“订书机没订书钉”，结果却变成你质疑职业生涯和人生道路的催化剂。&lt;/p&gt;
@@ -2279,9 +2279,9 @@
  
  <entry>
    <title>懦弱野兽</title>
-   <link href="https://codyb1ue.github.io/2018/12/03/timid-animals"/>
+   <link href="https://memozine.me/2018/12/03/timid-animals"/>
    <updated>2018-12-03T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/12/03/timid animals</id>
+   <id>https://memozine.me/2018/12/03/timid animals</id>
    <content type="html">&lt;p&gt;最近在看一部日剧《无法成为野兽的我们》，大概是从第五集开始，我被它触动了。很多人在爱情或工作里，面对亲密的伙伴或陌生的酒客，都无法任性，做自己想做的事情。尽管现在流行的价值观是遵从自己的心，为自己而活，实际上，我们也确实在为“自己”而活，只是那个“自己”是别人眼中的自己、被期待的自己，那个“自己”无法遵从内心，表达诉求，在忙碌之后，爬上天台，看着城市的灯火，翻动通讯录，只想找到一个抚慰的声音。&lt;/p&gt;
 
 &lt;p&gt;剧中，黑木华饰演了一个废柴，因为前男友的一句“我养你”而辞掉工作，就再也没去工作，也失去了爱情。看着她的时候，我总能联想到我自己。是的，新垣结衣是令人羡慕的，她可以应付各种工作，又有稳定的爱情。虽然新垣结衣也有很多难言的悲伤，但至少在黑木华看来，是这样的，她那么漂亮又有能力。我就是在这个时候，想到了自己很像黑木华，我羡慕着新垣结衣，又幻想成为新垣结衣这样的人。&lt;/p&gt;
@@ -2306,9 +2306,9 @@
  
  <entry>
    <title>银河系漫游歌单</title>
-   <link href="https://codyb1ue.github.io/2018/11/15/sound-of-galaxy"/>
+   <link href="https://memozine.me/2018/11/15/sound-of-galaxy"/>
    <updated>2018-11-15T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/11/15/sound of galaxy</id>
+   <id>https://memozine.me/2018/11/15/sound of galaxy</id>
    <content type="html">&lt;p&gt;1968 年，库布里克拍摄了一场发生在 2001 年的宇宙奥德赛(Space Odyssey)。漫长的飞行和无解的谜题，在茫茫太空中显得寂寞卑微。次年，人类实现了登月计划，但库布里克电影中的太空漫游迟迟没有到来。2001 年，我们刚从世纪末的忧愁和千年虫的恐慌中回神，电影情节也只是在幻想中浮现。&lt;/p&gt;
 
 &lt;p&gt;与科学幻想相比，我们的脚步的确慢了太多。1977 年发射的探测器“旅行者一号”，穿越小行星带，拜访木星、土星，直到 2014 年才离开太阳系，进入星际空间。《银翼杀手》中的洛杉矶，在 2019 年已成为光怪陆离的地球遗民区，而事实上，这一天还遥不可及。&lt;/p&gt;
@@ -2343,9 +2343,9 @@
  
  <entry>
    <title>潮湿俱乐部</title>
-   <link href="https://codyb1ue.github.io/2018/08/15/humid-club"/>
+   <link href="https://memozine.me/2018/08/15/humid-club"/>
    <updated>2018-08-15T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/08/15/humid club</id>
+   <id>https://memozine.me/2018/08/15/humid club</id>
    <content type="html">&lt;p&gt;我们离开城市的那个夜晚，空气凝滞，蝉鸣在高温中起伏。我们手拉着手，可以感受到彼此的手汗。在奔跑的间隙，我们回头看，西边的天空一片橘红，湮没了星星和月亮，能隐约听到消防车的声音，偶尔还有尖叫和狗吠。我们带走了必须的财物和一只叫做“舌头”的英国短毛猫。在不必须的东西里，我们带走了地图，尽管我们知道这会暴露我们的行踪，因为有了地图就有了目的地。我们还带走了一顶帐篷，虽然可以睡在车里，但我们打算在某些时刻露营。&lt;/p&gt;
 
 &lt;p&gt;我们以每小时八十公里的速度离开城市，不是旅行而是逃亡。这是一个真实故事，故事发生在一个闷热的夏季，为了保护我们的隐私，我们必须隐去名字、性别和年龄。这也是一个公路故事，诗人说过“生活，在别处”，而我们知道“生活，在去往别处的路上”。这还是一个酒神故事，我们要把自己投射在万物之中。狂欢？迷乱？也许不行。我们必须安全地离开，尽管我们并不确定要去哪里。&lt;/p&gt;
@@ -2414,9 +2414,9 @@
  
  <entry>
    <title>想象的互联网</title>
-   <link href="https://codyb1ue.github.io/2018/07/11/imagine-internet"/>
+   <link href="https://memozine.me/2018/07/11/imagine-internet"/>
    <updated>2018-07-11T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/07/11/imagine internet</id>
+   <id>https://memozine.me/2018/07/11/imagine internet</id>
    <content type="html">&lt;p&gt;1989 年 3 月 12 日，万维网之父 Tim Berners-Lee 爵士递交了一篇论文，提出了万维网的最初设想。他想象 World Wide Web 作为一个公共平台，可以让人们在任何地方访问并分享信息，进行跨越文化和地理界限的合作。然而，近三十年后的今天，Tim Berners-Lee 爵士却对互联网失去了信心，他正在着手开发一个名为 &lt;a href=&quot;https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets&quot;&gt;Solid&lt;/a&gt; 的全新生态系统。&lt;/p&gt;
 
 &lt;p&gt;Tim Berners-Lee 爵士想通过这种方式开展自己的“互联网拯救计划”。在 2017 年，他在&lt;a href=&quot;https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet&quot;&gt;《卫报》&lt;/a&gt;上发表公开信，指责数据隐私、虚假新闻、政府监管和中心化等互联网病症，并认为“&lt;a href=&quot;https://www.theguardian.com/technology/2017/nov/15/tim-berners-lee-world-wide-web-net-neutrality&quot;&gt;互联网系统正在瓦解&lt;/a&gt;”。因此，互联网拯救计划的目的就是“重新去中心化”，他希望人们重新掌握自己的数据，试图让曾经的设想“再次”变为现实。&lt;/p&gt;
@@ -2443,9 +2443,9 @@
  
  <entry>
    <title>孟买</title>
-   <link href="https://codyb1ue.github.io/2018/06/02/bombay"/>
+   <link href="https://memozine.me/2018/06/02/bombay"/>
    <updated>2018-06-02T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/06/02/bombay</id>
+   <id>https://memozine.me/2018/06/02/bombay</id>
    <content type="html">&lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
 
 &lt;p&gt;在一座城市生活多久，才能让自己成为它的一部分，或者让它成为自己的一部分呢。帕慕克曾说过，离乡背井的“无根性”可以助长想象力，那是伟大作家的养料，但对于孟买而言，“无根性”似乎毫无用处，她在工厂的流水线或出租屋的窗前，每日做着重复的事情，想象力并没有带来喷薄欲出的书写欲望，也没有带来色彩张扬的生活理想，只是滋补了她劳累过后的睡梦。&lt;/p&gt;
@@ -2523,9 +2523,9 @@
  
  <entry>
    <title>海滩人与记忆癖</title>
-   <link href="https://codyb1ue.github.io/2018/04/30/beach-man"/>
+   <link href="https://memozine.me/2018/04/30/beach-man"/>
    <updated>2018-04-30T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/04/30/beach man</id>
+   <id>https://memozine.me/2018/04/30/beach man</id>
    <content type="html">&lt;p&gt;在《暗店街》中，莫迪亚诺提到“海滩人”。海滩人身穿游泳衣，出现在度假照片的一角或背景中，但谁也叫不出他的名字，谁也说不清他为何在那儿。甚至没有人注意到有一天他消失了。莫迪亚诺借角色之口说，其实我们都是海滩人，“沙子只把我们的脚印保留几秒钟”。&lt;/p&gt;
 
 &lt;p&gt;“海滩人”这个比喻，表达出的并非是个体的卑微，而是由于个体的卑微而导致的遗忘。&lt;/p&gt;
@@ -2554,9 +2554,9 @@
  
  <entry>
    <title>钥匙和衬衫</title>
-   <link href="https://codyb1ue.github.io/2018/02/18/key-and-skirt"/>
+   <link href="https://memozine.me/2018/02/18/key-and-skirt"/>
    <updated>2018-02-18T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/02/18/key and skirt</id>
+   <id>https://memozine.me/2018/02/18/key and skirt</id>
    <content type="html">&lt;h3 id=&quot;钥匙&quot;&gt;钥匙&lt;/h3&gt;
 
 &lt;p&gt;第一次去你家的时候，你就给了我一把钥匙。钥匙是备用的，用纸包着藏在门口的某个角落。那把钥匙挂我的钥匙串上，一直到你离开某岛前我才交还给你。那时候你外派在某岛，住在23层顶楼，推开窗户是呼呼的风，能看到远处的海，有时还能看到海雾向陆地慢慢侵袭，像是奥特曼里怪兽来临前铺垫的雾气。春夏的几个月里，我们像是在梦里度过的。你带我去你觉得好吃的餐厅，还带我去坐夜晚的摩天轮。我们一起宅在家里睡午觉，躺在沙发上看电影，推着购物车逛超市，或者骑着单车去往什么地方。&lt;/p&gt;
@@ -2587,9 +2587,9 @@
  
  <entry>
    <title>大众社会是幻觉吗</title>
-   <link href="https://codyb1ue.github.io/2018/02/07/mass-society-theory"/>
+   <link href="https://memozine.me/2018/02/07/mass-society-theory"/>
    <updated>2018-02-07T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2018/02/07/mass society theory</id>
+   <id>https://memozine.me/2018/02/07/mass society theory</id>
    <content type="html">&lt;p&gt;西方大众社会理论出现于 19 世纪。这一时期的大众社会论者主要是一些社会学家如滕尼斯、迪尔凯姆、齐美尔、托克维尔等，他们在从不同侧面论述传统社会向现代社会转型过程中，出现的种种弊端，将其视为大众崛起的结果，并对前现代社会的景象表示怀念。比如鲍曼的《共同体》，滕尼斯的《共同体与社会》等等，都是在追忆那种人们凝聚团结的美好。&lt;/p&gt;
 
 &lt;p&gt;20 世纪 30 年代至 50 年代，大众社会理论成为批判法西斯极权主义制度的武器，其代表人物有阿多诺、霍克海默、马尔库塞、弗洛姆、曼海姆、阿仑特等。这个时期的大众社会论者对西方现代性之困境与危机进行了深刻的反省和批判。20 世纪 50 年代以后 , 美国的米尔斯、理斯曼、科恩豪泽、布鲁默等一批社会学理论家 , 继续用大众社会范畴分析美国现代性发展所呈现出来的各种病理现象。&lt;/p&gt;
@@ -2639,9 +2639,9 @@
  
  <entry>
    <title>“霸道的监视”与“冒险的信任”</title>
-   <link href="https://codyb1ue.github.io/2017/12/26/electric-dreams"/>
+   <link href="https://memozine.me/2017/12/26/electric-dreams"/>
    <updated>2017-12-26T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/12/26/electric dreams</id>
+   <id>https://memozine.me/2017/12/26/electric dreams</id>
    <content type="html">&lt;p&gt;昨晚看了《Philip K. Dick’s Electric Dreams》的第一集“面具制造者”，关于读心人、反读心、保卫思想的抗议。&lt;/p&gt;
 
 &lt;p&gt;“旧世界里，我记得我们对电脑、网络，关于所有人和事的消息有多焦虑。我们筑起防火墙，加密我们的生活。”面具制造者的这句话，暗示了故事的背景：一个电脑和网络都不复存在的“新世界”。&lt;/p&gt;
@@ -2670,9 +2670,9 @@
  
  <entry>
    <title>听障青少年如何使用媒介</title>
-   <link href="https://codyb1ue.github.io/2017/12/14/media-using-of-hearing-impaired-adolescents"/>
+   <link href="https://memozine.me/2017/12/14/media-using-of-hearing-impaired-adolescents"/>
    <updated>2017-12-14T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/12/14/media using of hearing impaired adolescents</id>
+   <id>https://memozine.me/2017/12/14/media using of hearing impaired adolescents</id>
    <content type="html">&lt;h3 id=&quot;研究缘起&quot;&gt;研究缘起&lt;/h3&gt;
 
 &lt;p&gt;去年的这个时候，我和两个同学申请了学校的创新项目，关于听障青少年的媒介使用。我之所以想去研究这个主题，源于本科时期的笔记本。笔记本的某一页，我写了三个关键词：&lt;strong&gt;哑语、肢体语言传播、少数派受众&lt;/strong&gt;。&lt;/p&gt;
@@ -2725,9 +2725,9 @@
  
  <entry>
    <title>Es muss sein? Es muss sein</title>
-   <link href="https://codyb1ue.github.io/2017/11/07/es-muss-sein"/>
+   <link href="https://memozine.me/2017/11/07/es-muss-sein"/>
    <updated>2017-11-07T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/11/07/es muss sein</id>
+   <id>https://memozine.me/2017/11/07/es muss sein</id>
    <content type="html">&lt;p&gt;年轻的生命总是充满困惑，爱情、生死、自我或者彼岸都像是沉默的石块，捡起来扔出去，在水面激起一层层的波纹，随即沉落到湖底。一桩桩心事比这还要重。今天我想书写我的困惑，那种一生只有一次，怎么过才是对的，为什么我是错的。这样的困惑。&lt;/p&gt;
 
 &lt;p&gt;纠结了好几个月，我还是在工作和读博上拿不定主意。我知道我热爱读书，但读博后的阅读既是乐趣又成了任务。问题意识最终需要转化成条理清晰的文章，还需要无数的表格、会议和项目。当然做任何事情都不会轻松。最近流行的第一次九零后开始谢顶，对我而言也像是戏谑，我也只是拿它开玩笑，并不真的因此而畏惧。那么真正阻碍我去决定的是什么呢？思前想后，我觉得还是不知道自己真正想要什么，换言之，就是想试试另一种生命路线会是如何。一直在学校呆着，清闲散漫的高等游民生活，让我有充足的时间去思考开头的那些困惑，但也困于书桌之前，体会不到真实的经验。那么工作又怎样呢？我看到太多人抱怨老板、职场、加班和年会，也知道这样的选择自带压力，但我也许就是因为没有去体会过，所以才那么想要去尝试。身边很多同学都觉得我适合去读博，导师和父母也希望我继续，包括豆瓣认识的学长学姐也都看好我，但我总觉得我自己不是那么完全地说服自己。就像是我还有其他的选择，并不非此不可。所以我现在安慰自己的话就是，我要去实习，不喜欢了我准备考博。这样的安慰本质上就是一种缓兵之计，真正的选择似乎不是一瞬间的事情，它是漫长的、折磨的，日夜纠缠着。&lt;/p&gt;
@@ -2742,9 +2742,9 @@
  
  <entry>
    <title>城市传播研究笔记</title>
-   <link href="https://codyb1ue.github.io/2017/10/28/urban-communication-study"/>
+   <link href="https://memozine.me/2017/10/28/urban-communication-study"/>
    <updated>2017-10-28T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/10/28/urban communication study</id>
+   <id>https://memozine.me/2017/10/28/urban communication study</id>
    <content type="html">&lt;h2 id=&quot;城市与传播&quot;&gt;城市与传播&lt;/h2&gt;
 &lt;h3 id=&quot;城市定义历史经典评价&quot;&gt;城市：定义、历史、经典评价&lt;/h3&gt;
 
@@ -2902,9 +2902,9 @@
  
  <entry>
    <title>巴别塔与巴别塔毁灭之后</title>
-   <link href="https://codyb1ue.github.io/2017/09/18/after-babel"/>
+   <link href="https://memozine.me/2017/09/18/after-babel"/>
    <updated>2017-09-18T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/09/18/after babel</id>
+   <id>https://memozine.me/2017/09/18/after babel</id>
    <content type="html">&lt;p&gt;我之前洋洋自得地写过这样一段话：&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -2957,9 +2957,9 @@
  
  <entry>
    <title>禅与滑板艺术</title>
-   <link href="https://codyb1ue.github.io/2017/06/19/zen-and-skateboard"/>
+   <link href="https://memozine.me/2017/06/19/zen-and-skateboard"/>
    <updated>2017-06-19T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/06/19/zen and skateboard</id>
+   <id>https://memozine.me/2017/06/19/zen and skateboard</id>
    <content type="html">&lt;p&gt;三月初，我让奇奇帮我在淘宝上选滑板，挑了喜欢的图案，两天后我拿到滑板，自此开始了自己的滑板生活。&lt;/p&gt;
 
 &lt;p&gt;在寝室楼道里，我踩上了滑板的第一脚，并因为掌握不住平衡而一个踉跄，人板分离。晚上又在空地上滑行，次日便去找学校的滑板组织，加了企鹅群，之后我几乎每天都去练习。&lt;/p&gt;
@@ -2992,9 +2992,9 @@
  
  <entry>
    <title>随意的山头</title>
-   <link href="https://codyb1ue.github.io/2017/05/24/random-mountain"/>
+   <link href="https://memozine.me/2017/05/24/random-mountain"/>
    <updated>2017-05-24T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/05/24/random mountain</id>
+   <id>https://memozine.me/2017/05/24/random mountain</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;批量生产的人和批量生产的杯子一样，等待着被悬置被挑选被使用被替换被淘汰。人变为物，物变为垃圾，垃圾变为艺术。我想起一句话，“我是随便发出的一支箭，随便飞去了哪个山头”。但我并不介意自己是一支随意的箭，有了方向我就会拼命飞去，我害怕的是随意的山头。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3017,9 +3017,9 @@
  
  <entry>
    <title>乡愁、牧歌和现代生活</title>
-   <link href="https://codyb1ue.github.io/2017/02/15/modern-life"/>
+   <link href="https://memozine.me/2017/02/15/modern-life"/>
    <updated>2017-02-15T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/02/15/modern life</id>
+   <id>https://memozine.me/2017/02/15/modern life</id>
    <content type="html">&lt;p&gt;寒假期间看《梵高传》，写下批注：似乎每个时代的人，都会慨叹自己所处时代的庸碌麻木和淡然无味 ，哀悼昔日的辉煌。文明仿佛永远处于“衰退”状态，社会也总在“腐朽”。其实仔细想想，不管是中国历史上，孔子慨叹礼崩乐坏，追回内外一致，历代文人古文运动的“复古情怀”，还是欧洲对古希腊罗马时期的美好追忆，“文艺复兴”，乃至当代政治家提出的“伟大复兴”（Great Again），都暗示着我们的过去如此荣耀，现在的处境实在可怜。&lt;/p&gt;
 
 &lt;p&gt;读研以来，看的一些书都关于“共同体”这个主题。根据学者们的观点，鲍曼觉得它是失落的天堂，其中充满安全信任，温暖关怀。而滕尼斯认为共同体是社会的前状态，基于血缘和地缘的传统共同体不断瓦解，陌生的人们走进城市形成社会。很多学者都怀念共同体，相信共同体的重建，可以帮助解决当下的一些危机，比如信任感降低、个人主义至上、信仰丧失导致的虚无感。&lt;/p&gt;
@@ -3042,9 +3042,9 @@
  
  <entry>
    <title>这个男人那个男人</title>
-   <link href="https://codyb1ue.github.io/2017/01/10/this-and-that"/>
+   <link href="https://memozine.me/2017/01/10/this-and-that"/>
    <updated>2017-01-10T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/01/10/this and that</id>
+   <id>https://memozine.me/2017/01/10/this and that</id>
    <content type="html">&lt;h3 id=&quot;这个男人&quot;&gt;这个男人&lt;/h3&gt;
 &lt;p&gt;传统的爱情故事总是成双入对，它需要两个人经受百般刁难，抵抗诱惑欲望，只把对方视为此生的唯一。这样的故事的确好看，不仅能满足世人对爱情的想象，还能强化隐藏的社会秩序。不过，我接下来要讲述的故事，却与上面的传统格格不入，它大概是一个男人同时爱着两个女人。&lt;/p&gt;
 
@@ -3096,9 +3096,9 @@
  
  <entry>
    <title>媒介事件与媒介仪式</title>
-   <link href="https://codyb1ue.github.io/2017/01/07/media-event-and-media-ritual"/>
+   <link href="https://memozine.me/2017/01/07/media-event-and-media-ritual"/>
    <updated>2017-01-07T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/01/07/media event and media ritual</id>
+   <id>https://memozine.me/2017/01/07/media event and media ritual</id>
    <content type="html">&lt;p&gt;法国社会学家埃米尔·涂尔干在《宗教生活的基本形式》中，认为宗教以两种方式代表着社会现实：一方面，他们为社会成员解释社会现实提供了必要的认知方式。另一方面，宗教实践如仪式，在表达社会现实上，形成了重要的、为全社会接受的标准化和可重复的方式。宗教的公共仪式向个人提供了归属感，加强了个人同他所属社会之间的联系，有利于实现社会整合。然而，随着现代化的到来，科学接替宗教成为了社会成员的主要认知方式，在涂尔干看来，尽管宗教仪式在社会整合上是不可缺少的，但终将走向衰落。&lt;/p&gt;
 
 &lt;p&gt;新涂尔干主义者发展了涂尔干的观点，他们认为尽管宗教举行的“神圣的”仪式会衰落，但生活中“世俗的”仪式将会履行集体认同和社会整合的功能。丹尼尔·戴扬和伊莱休·卡茨就是两位具有代表性的新涂尔干主义者，他们在《媒介事件》&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;中，不仅着眼于公共仪式和社会事件，还提出了媒介的中介性，认为社会成员在无法直接交往的情况下，可以通过媒介聚集在一起，并认识到他们相互之间构成了社会整体。&lt;/p&gt;
@@ -3163,9 +3163,9 @@
  
  <entry>
    <title>非仪式的媒介仪式</title>
-   <link href="https://codyb1ue.github.io/2017/01/05/the-other-media-ritual"/>
+   <link href="https://memozine.me/2017/01/05/the-other-media-ritual"/>
    <updated>2017-01-05T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2017/01/05/the other media ritual</id>
+   <id>https://memozine.me/2017/01/05/the other media ritual</id>
    <content type="html">&lt;p&gt;库尔德里在《媒介仪式》&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;中，对关键词做出了一整套的概念界定。&lt;/p&gt;
 
 &lt;h3 id=&quot;媒介&quot;&gt;媒介&lt;/h3&gt;
@@ -3236,9 +3236,9 @@
  
  <entry>
    <title>媒介与文化研究方法</title>
-   <link href="https://codyb1ue.github.io/2016/12/26/media-and-culture-study"/>
+   <link href="https://memozine.me/2016/12/26/media-and-culture-study"/>
    <updated>2016-12-26T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2016/12/26/media and culture study</id>
+   <id>https://memozine.me/2016/12/26/media and culture study</id>
    <content type="html">&lt;h3 id=&quot;一研究方法&quot;&gt;一、研究方法&lt;/h3&gt;
 &lt;h4 id=&quot;如何阅读文献33&quot;&gt;如何阅读文献？（33）&lt;/h4&gt;
 &lt;ol&gt;
@@ -3325,9 +3325,9 @@
  
  <entry>
    <title>今年没有写诗</title>
-   <link href="https://codyb1ue.github.io/2016/12/12/poem2013-2015"/>
+   <link href="https://memozine.me/2016/12/12/poem2013-2015"/>
    <updated>2016-12-12T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2016/12/12/poem2013-2015</id>
+   <id>https://memozine.me/2016/12/12/poem2013-2015</id>
    <content type="html">&lt;h3 id=&quot;2016&quot;&gt;2016&lt;/h3&gt;
 
 &lt;p&gt;2016年，我没有写下一首诗。&lt;/p&gt;
@@ -3454,9 +3454,9 @@
  
  <entry>
    <title>虚无主义与永恒轮回</title>
-   <link href="https://codyb1ue.github.io/2016/11/27/nihilism-and-eternal-return"/>
+   <link href="https://memozine.me/2016/11/27/nihilism-and-eternal-return"/>
    <updated>2016-11-27T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2016/11/27/nihilism and eternal return</id>
+   <id>https://memozine.me/2016/11/27/nihilism and eternal return</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;弗朗西斯·福山&lt;/strong&gt;在《历史的终结》的最后写道：&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -3489,9 +3489,9 @@
  
  <entry>
    <title>卢德分子</title>
-   <link href="https://codyb1ue.github.io/2016/11/09/luddite"/>
+   <link href="https://memozine.me/2016/11/09/luddite"/>
    <updated>2016-11-09T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2016/11/09/luddite</id>
+   <id>https://memozine.me/2016/11/09/luddite</id>
    <content type="html">&lt;p&gt;冯尼古特在《没有国家的人》中，称自己是一个“卢德分子”Luddite，仇视新奇发明的人。&lt;/p&gt;
 
 &lt;p&gt;据传，内德·卢德是十九世纪初的英国纺织工人，由于当时机器取代人力，熟练工的技能贬值，他十分痛恶，因此怒砸机器纺布机。卢德运动就此展开，这一运动始于1811年的诺丁汉，后迅速蔓延至英格兰。卢德分子们摧毁了许多羊毛和棉花工厂，甚至还集结成一股强大的势力，与英国陆军对抗。&lt;/p&gt;
@@ -3520,9 +3520,9 @@
  
  <entry>
    <title>河马</title>
-   <link href="https://codyb1ue.github.io/2016/03/07/hippopotamus"/>
+   <link href="https://memozine.me/2016/03/07/hippopotamus"/>
    <updated>2016-03-07T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2016/03/07/hippopotamus</id>
+   <id>https://memozine.me/2016/03/07/hippopotamus</id>
    <content type="html">&lt;h3 id=&quot;快&quot;&gt;快&lt;/h3&gt;
 
 &lt;p&gt;哈扎尔辞典里提到，熟睡的时候乃是一个人最为脆弱之际。所以每夜临睡前，阿捷赫公主都命令盲人在她的两片眼睑上书写诅咒的字母，凡是看到的皆难逃一死。然而颇为讽刺的是，阿捷赫公主却死于清醒时刻。字母的力量的确守护住了她的睡眠与安全，但某个早晨，她在镜子里看到了自己。那是一对镜子：快镜和慢镜，顾名思义，前者预示未来，后者重现过去。于是，辞典里这么写道：&lt;/p&gt;
@@ -3579,9 +3579,9 @@
  
  <entry>
    <title>感受力</title>
-   <link href="https://codyb1ue.github.io/2015/11/04/feeling"/>
+   <link href="https://memozine.me/2015/11/04/feeling"/>
    <updated>2015-11-04T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2015/11/04/feeling</id>
+   <id>https://memozine.me/2015/11/04/feeling</id>
    <content type="html">&lt;h3 id=&quot;嘿这是荒诞派&quot;&gt;嘿，这是荒诞派&lt;/h3&gt;
 
 &lt;p&gt;谈论感受力，却是源于它的另一面：理性。几百年来的发展，理性现已成为科学的一大表征。在自然学科称雄后，人文社会学科也引入科学的概念，进而附随了理性。&lt;/p&gt;
@@ -3620,9 +3620,9 @@
  
  <entry>
    <title>风吹微微</title>
-   <link href="https://codyb1ue.github.io/2014/06/27/breeze"/>
+   <link href="https://memozine.me/2014/06/27/breeze"/>
    <updated>2014-06-27T00:00:00+00:00</updated>
-   <id>https://codyb1ue.github.io/2014/06/27/breeze</id>
+   <id>https://memozine.me/2014/06/27/breeze</id>
    <content type="html">&lt;p&gt;回寝室之时，本已经停歇的雨，一顿晚餐的功夫又落了下来。 并不算大，骑着车，风往身后吹去。短短的路程，脑子里却闪过无数念头。&lt;/p&gt;
 
 &lt;p&gt;不用十分钟，就到了。脱去潮湿的衣服，冲凉。 出来以后，站在阳台上，看着风吹树枝弯曲的弧度，灰白弥漫的天空，零星散散的雨水。有一种无法名状的触动。 并不是打通任督六脉，猛然开窍之类的触动，仅仅是体悟到某种生存深处的纯质。&lt;/p&gt;

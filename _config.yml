@@ -91,4 +91,4 @@ relative_links:
   collections: false
 
 paginate: 10 # jekyll-paginate > items per page
-paginate_path: "/page/:num" # jekyll-paginate > blog page
+paginate_path: "blog/page:num" # jekyll-paginate > blog page

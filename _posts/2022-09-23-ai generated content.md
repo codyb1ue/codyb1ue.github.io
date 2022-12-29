@@ -4,7 +4,7 @@ title: AI画作拿下一等奖：争议之余，再谈媒介对人的延伸
 tags: publish
 ---
 
-本文首发于腾讯新闻 [全媒派](https://sspai.com/link?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6WYXH-D4zL9kOA7pVo1afw) 。
+本文首发于腾讯新闻 [全媒派](https://mp.weixin.qq.com/s/6WYXH-D4zL9kOA7pVo1afw) 。
 
 8月底，在美国科罗拉多州博览会的一项艺术比赛中，参赛者Jason Allen凭借《太空歌剧院》获得了第一名，这幅作品是通过一款名为Midjourney的AI绘画工具生成的。[^1]
 
@@ -110,7 +110,7 @@ AI绘画则将“原子转化为比特”，创作者不再需要动手握笔，
 
 [^1]: [https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed](https://sspai.com/link?target=https%3A%2F%2Fwww.vice.com%2Fen%2Farticle%2Fbvmvqm%2Fan-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed)
 
-[^2]: 全媒派：《媒推荐| 年产新闻10亿篇，机器人新闻占领地球！》，2014年10月28日。
+[^2]: 全媒派：《媒推荐|年产新闻10亿篇，机器人新闻占领地球！》，2014年10月28日。
 
 [^3]: 中国日报网：《日本机器人小说家入围文学奖》，2016年3月31日。
 

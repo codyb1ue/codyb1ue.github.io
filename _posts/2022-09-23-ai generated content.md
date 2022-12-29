@@ -14,7 +14,7 @@ tags: publish
 
 2016年，有新闻称，由AI程序和人类作家合作完成的短篇小说，在日本星新一文学奖中通过了首轮。[^3]
 
-2017年，微软公司推出的“ [小冰](https://sspai.com/link?target=https%3A%2F%2F36kr.com%2Fproject%2F1817518952236931) ”，出版了第一部人工智能“创作”的诗集《阳光失了玻璃窗》。[^4]今年年初，网易宣布推出AI音乐创作平台，10秒即可产出词曲编唱。[^5]
+2017年，微软公司推出的“小冰”，出版了第一部人工智能“创作”的诗集《阳光失了玻璃窗》。[^4]今年年初，网易宣布推出AI音乐创作平台，10秒即可产出词曲编唱。[^5]
 
 从AI写作到AI编曲，再到AI绘画，用户只需要输入关键词，选择特定风格，就可以得到相应作品，人工智能似乎越来越“全能”，也越来越“懂”我们了，甚至开始涉及抽象的艺术领域。 **本文以“媒介延伸论”为视角，聊一聊人工智能如何延伸人的思想意识，以及未来的媒介技术将会带来何种机遇与挑战。**
 
@@ -108,7 +108,7 @@ AI绘画则将“原子转化为比特”，创作者不再需要动手握笔，
 
 因此，AI绘画技术虽然会不断升级，但依然离不开创作者自己的想象和表达。也许，未来的AI绘画艺术，也会是一种关于表达的艺术，它延伸了人的思维，却又依赖于人的思维。
 
-[^1]: [https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed](https://sspai.com/link?target=https%3A%2F%2Fwww.vice.com%2Fen%2Farticle%2Fbvmvqm%2Fan-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed)
+[^1]: https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed
 
 [^2]: 全媒派：《年产新闻10亿篇，机器人新闻占领地球！》，2014年10月28日。
 
@@ -128,8 +128,8 @@ AI绘画则将“原子转化为比特”，创作者不再需要动手握笔，
 
 [^10]: 谭铁牛：《人工智能的历史、现状和未来》，《求是》2019年第4期。
 
-[^11]: [https://www.ibm.com/cn-zh/cloud/learn/what-is-artificial-intelligence](https://sspai.com/link?target=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Fcloud%2Flearn%2Fwhat-is-artificial-intelligence)
+[^11]: https://www.ibm.com/cn-zh/cloud/learn/what-is-artificial-intelligence
 
-[^12]: [https://6pen.art/my/2925362/question](https://sspai.com/link?target=https%3A%2F%2F6pen.art%2Fmy%2F2925362%2Fquestion)
+[^12]: https://6pen.art/my/2925362/question
 
 [^13]: [美]约翰·杜翰姆·彼得斯：《对空言说：传播的观念史》，邓建国译，上海：上海译文出版社，2017年。

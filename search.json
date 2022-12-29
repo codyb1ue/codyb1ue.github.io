@@ -118,6 +118,33 @@
     } ,
   
     {
+      "title"    : "人造的梦",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2021/04/25/make-dream",
+      "date"     : "2021-04-25 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "折叠的城市",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2020/02/26/folding-city",
+      "date"     : "2020-02-26 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "任意门与Windows",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2020/02/22/door-and-windows",
+      "date"     : "2020-02-22 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "在互联网中被消失",
       "description" : "",
       "category" : "",
@@ -127,12 +154,39 @@
     } ,
   
     {
+      "title"    : "从平原到高级住宅的游历",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2020/02/10/from-country-to-urban",
+      "date"     : "2020-02-10 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "退化",
       "description" : "",
       "category" : "",
       "tags"     : "journal",
       "url"      : "/2020/02/08/degeneration",
       "date"     : "2020-02-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "浪漫的和粗劣的乡村",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/12/06/romantic-or-vulgar-country",
+      "date"     : "2019-12-06 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "作为疾病的怀旧",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/09/29/nostalgia-as-illness",
+      "date"     : "2019-09-29 00:00:00 +0000"
     } ,
   
     {
@@ -163,6 +217,42 @@
     } ,
   
     {
+      "title"    : "我要赞颂的是一条尾巴",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/02/25/zhou-hao-s-documentary-film",
+      "date"     : "2019-02-25 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "归途列车",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/02/03/last-train-home",
+      "date"     : "2019-02-03 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "大象在满洲里悲鸣",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/01/31/an-elephant-sitting-still",
+      "date"     : "2019-01-31 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "被发明的五福传统",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/01/26/inventing-five-fu-s-tradition",
+      "date"     : "2019-01-26 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "直到死亡把我们分开",
       "description" : "",
       "category" : "",
@@ -172,12 +262,30 @@
     } ,
   
     {
+      "title"    : "时间切除",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2019/01/14/time-cutting",
+      "date"     : "2019-01-14 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "被电视机制造的鬼魂",
       "description" : "",
       "category" : "",
       "tags"     : "comment",
       "url"      : "/2018/12/28/ghost-from-television",
       "date"     : "2018-12-28 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "钱多斯时刻与“第二手”存在",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2018/12/22/chandos-moment",
+      "date"     : "2018-12-22 00:00:00 +0000"
     } ,
   
     {
@@ -208,12 +316,30 @@
     } ,
   
     {
+      "title"    : "想象的互联网",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2018/07/11/imagine-internet",
+      "date"     : "2018-07-11 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "孟买",
       "description" : "",
       "category" : "",
       "tags"     : "novel",
       "url"      : "/2018/06/02/bombay",
       "date"     : "2018-06-02 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "海滩人与记忆癖",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2018/04/30/beach-man",
+      "date"     : "2018-04-30 00:00:00 +0000"
     } ,
   
     {
@@ -232,6 +358,15 @@
       "tags"     : "record",
       "url"      : "/2018/02/07/mass-society-theory",
       "date"     : "2018-02-07 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "“霸道的监视”与“冒险的信任”",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2017/12/26/electric-dreams",
+      "date"     : "2017-12-26 00:00:00 +0000"
     } ,
   
     {
@@ -340,6 +475,15 @@
       "tags"     : "novel",
       "url"      : "/2016/12/12/poem2013-2015",
       "date"     : "2016-12-12 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "虚无主义与永恒轮回",
+      "description" : "",
+      "category" : "",
+      "tags"     : "comment",
+      "url"      : "/2016/11/27/nihilism-and-eternal-return",
+      "date"     : "2016-11-27 00:00:00 +0000"
     } ,
   
     {

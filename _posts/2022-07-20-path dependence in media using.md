@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我们当下的媒介使用习惯，是否在很久以前就养成了？
+minute: 15
 tags: publish
 ---
 

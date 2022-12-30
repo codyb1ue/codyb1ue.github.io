@@ -7,7 +7,7 @@ lang: en-US
 timezone: Asia/Shanghai
 repo:  # site repo [optional]
 data-theme: light # default theme "dark" | "light"
-discus-identifier: memoziner # replace with your disqus shortname
+discus-identifier: memozine # replace with your disqus shortname
 
 author:
   name: Cody

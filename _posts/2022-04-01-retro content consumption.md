@@ -2,6 +2,7 @@
 layout: post
 title: 从新闻信到填字游戏：如何看待内容消费的复古潮？
 tags: publish
+minute: 13
 ---
 
 *本文载于腾讯新闻《[全媒派](https://mp.weixin.qq.com/s/kNcogGpA3YlQvwFOiqzlIw) 》2022年3月30日。*

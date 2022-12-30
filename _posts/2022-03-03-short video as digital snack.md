@@ -2,6 +2,7 @@
 layout: post
 title: 短视频也要花钱看了，你的“电子榨菜”还香吗？
 tags: publish
+minute: 13
 ---
 
 *本文载于腾讯新闻《[全媒派](https://mp.weixin.qq.com/s/gsyMPCgvBTSZKVajZqFtuA)》2022年3月2日，发表版本略有删节。*

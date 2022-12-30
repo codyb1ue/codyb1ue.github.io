@@ -2,6 +2,7 @@
 layout: post
 title: 万物皆可“TikTok”：为什么社交平台纷纷做起短视频？
 tags: publish
+minute: 10
 ---
 
 *本文载于腾讯新闻《[全媒派](https://mp.weixin.qq.com/s/SNGkcRneodYdJ2a1Xf1iaQ) 》2022年6月27日。*

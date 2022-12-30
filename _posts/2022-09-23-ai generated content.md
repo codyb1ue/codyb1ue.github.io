@@ -2,6 +2,8 @@
 layout: post
 title: AI画作拿下一等奖：争议之余，再谈媒介对人的延伸
 tags: publish
+minute: 15
+comment: ture
 ---
 
 本文首发于腾讯新闻 [全媒派](https://mp.weixin.qq.com/s/6WYXH-D4zL9kOA7pVo1afw) 。

@@ -2,12 +2,11 @@
 layout: page
 ---
 <div class="flex-row-between">
-    <h1>About</h1>
+    <h1>Tags</h1>
     <a href="{{ site.url }}{{ site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
   </div>
 
 <section class="tags">
-  <h2>All tags:</h2>
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
   <ul>

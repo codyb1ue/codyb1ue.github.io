@@ -38,11 +38,29 @@ layout: default
 <section class="posts" id="Blog">
     <h2>BLOG</h2>
     <ul>
-        {% for post in site.posts %}
+        <!-- {% for post in site.posts %}
         <li>
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
+        {% endfor %} -->
+        Pinned Post!
+        {% for post in site.posts %}
+            {% if post.pinned %}
+            <li>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+            </li>
+            {% endif %}
+        {% endfor %}
+        Regular Post.
+        {% for post in site.posts %}
+            {% unless post.pinned %}
+            <li>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+            </li>
+            {% endunless %}
         {% endfor %}
     </ul>
 </section>

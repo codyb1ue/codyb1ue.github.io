@@ -2,6 +2,8 @@
 layout: post
 title: 时间与距离逐渐消亡，我们该如何数字化生存？
 tags: publish
+minute: 15
+pinned: True
 ---
 
 *本文载于腾讯新闻《[全媒派](https://mp.weixin.qq.com/s/ue1zhHpCdFQIo-chAUYpmQ)》2021年8月24日，发表版本略有删节。*

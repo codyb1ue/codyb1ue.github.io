@@ -5,6 +5,7 @@ tags: comment
 minute: 2
 comment: ture
 ---
+1
 
 在ChatGPT不断刮起旋风的当下，我竟然没有去体验过AI的“神奇”或者“可怕”。
 

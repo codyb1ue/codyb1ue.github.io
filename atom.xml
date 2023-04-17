@@ -4,7 +4,7 @@
  <title>Memzoine</title>
  <link href="https://memozine.me/atom.xml" rel="self"/>
  <link href="https://memozine.me/"/>
- <updated>2023-04-14T15:38:30+08:00</updated>
+ <updated>2023-04-17T09:17:43+08:00</updated>
  <id>https://memozine.me</id>
  <author>
    <name>Cody</name>
@@ -86,7 +86,7 @@
 
 &lt;p&gt;关于博客的相关更新记录。&lt;/p&gt;
 
-&lt;p&gt;在Bitcorn到期后，我拜托Alex帮我做了迁移，他很热心地帮我复刻了网站，我的文章也都完整呈现在了新的网站，随后还不断更新。但不知道是什么原因，某天开始再也打不开编辑后台了。这几天我摸索着用Github+Jekyll的方式，重新迁移了网站。&lt;/p&gt;
+&lt;p&gt;在Bitcron到期后，我拜托Alex帮我做了迁移，他很热心地帮我复刻了网站，我的文章也都完整呈现在了新的网站，随后还不断更新。但不知道是什么原因，某天开始再也打不开编辑后台了。这几天我摸索着用Github+Jekyll的方式，重新迁移了网站。&lt;/p&gt;
 
 &lt;p&gt;目前，Github提供托管服务，Jekyll提供静态页面渲染，Disqus提供评论功能，网站主题是在Gesko的基础上做了一些设计。因为我不太懂编程，很多都是取长补短，直接复制的代码，同时我也不太会用这些服务的本地程序，就直接在Github网页上做更新。但目前网站的形式，已经让我感到满意了。&lt;/p&gt;
 

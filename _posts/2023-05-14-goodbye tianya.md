@@ -1,9 +1,9 @@
+---
 layout: post
 title: 从此“天涯沦落人”：当代网络社区消亡的一个缩影
 tags: publish
 minute: 7
 comment: ture
-
 ---
 
 本文首发于腾讯新闻 [全媒派](https://mp.weixin.qq.com/s?src=11&timestamp=1683891292&ver=4524&signature=20Mbllrry9OJsb5dMjAaCwpxq8-R5CupjpBuJ8h1VoYz-VCFhLCCa7-2UNgGFC-fyZHLPhCewyx2zd4IZWeusqFDMe*8ai8orhkCA8*TrDryiE2GSiQXEoHRk32Qz*P8&new=1) 。

@@ -4,13 +4,114 @@
  <title>Memzoine</title>
  <link href="https://memozine.me/atom.xml" rel="self"/>
  <link href="https://memozine.me/"/>
- <updated>2023-05-29T16:30:45+08:00</updated>
+ <updated>2023-06-02T15:02:49+08:00</updated>
  <id>https://memozine.me</id>
  <author>
    <name>Cody</name>
    <email>wangchuang94@foxmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>接受不完美，才能戒断工具成瘾</title>
+   <link href="https://memozine.me/2023/06/02/my-digital-toolbox"/>
+   <updated>2023-06-02T00:00:00+08:00</updated>
+   <id>https://memozine.me/2023/06/02/my digital toolbox</id>
+   <content type="html">&lt;p&gt;从2012年高中毕业用上iPhone 4，再到2016年研究生开始使用MacBook Air，试用和使用各类软件，我似乎也曾感染过“工具成瘾症”：不断试用新推出的APP，探索新的功能以及可能性，始终觉得下一个会更好。但经历过“工欲善其事必先利其器”以及“差生文具多”的阶段，对于效率或记录工具，如今我已大致明确了使用偏好和习惯，在此做个小结。&lt;/p&gt;
+
+&lt;p&gt;本文主要包括如下工具：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;记录&lt;/strong&gt;：Notion、Apple Notes、Day One、Money Pro、Hipstamatic&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;效率&lt;/strong&gt;：Apple Reminder、Calendar、TXT记事本、Streaks&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;资讯&lt;/strong&gt;：NetNewsWire、Instapaper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;记录工具&quot;&gt;记录工具&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Notion，笔记存储&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我最初使用的笔记工具是Evernote，用以存储学生阶段的各类课程作业、论文、读书笔记、创作内容。但随着Evernote完全转换为印象笔记，限制登录设备、功能冗余，以及即使购买了会员也无法消除的广告，让我对它失望，但并没有让我彻底放弃。&lt;/p&gt;
+
+&lt;p&gt;在试用了&lt;a href=&quot;www.notion.so&quot;&gt;Notion&lt;/a&gt;后，我在Day One（2018/10/23）里写的是：&lt;strong&gt;它对“整理”的关注多过“创造”。&lt;/strong&gt;同时，我对无法离线保存以及数据丢失心存担忧。直到2021年，在对印象笔记忍无可忍后，我才开始考虑去深度使用Notion，进而把重要资料蚂蚁搬家式地迁移。&lt;/p&gt;
+
+&lt;p&gt;如今，某些旧有资料还存储在印象笔记，一年打开不超过10次；更多内容存储在Notion，包括文章收藏、读书笔记、创作内容、旅行攻略等。原先的思考碎片，剥离到&lt;a href=&quot;https://flomoapp.com/&quot;&gt;Flomo&lt;/a&gt;。Notion承担着“储藏器”或资料库的功能，但我更关注如何去消化已有内容、生成新的内容。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple Notes，临时记录&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;由于苹果生态的贯通性，不管是MacBook还是iPhone上的Notes，我所使用功能都很简单：某些内容的快速同步，以及生活常用信息的存储，包括银行账号、快递地址、临时笔记，以及证件荣誉的PDF扫描件。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day One，日记&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dayoneapp.com/&quot;&gt;Day One&lt;/a&gt;的使用时间已十年有余。最早在美区限免下载，根据Day One（2014/07/03）的记录，中区限免后我又重新下载并恢复数据。&lt;/p&gt;
+
+&lt;p&gt;最初使用时，我经常插入照片，导致这个APP对内存的占用很大，即使是iCloud也会被塞满。后来我把照片清除，只保留了文本。在Day One从Classic升级为2.0后，它友善地为老用户保留了Plus功能，这么多年来一直免费试用。&lt;/p&gt;
+
+&lt;p&gt;我把生活里发生的事情以及各类milestone、情绪，都记录起来。在Day One的“那年今日”里看到过去事情的记录，会让人感叹时间和成长。忙碌时，每月2-3篇，清闲时会更频繁。如今，总计有909篇日记，还有8个菜谱。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Money Pro，记账&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;回忆起来，记账APP我使用过随手记、DailyCost、iCost，如今固定使用&lt;a href=&quot;https://money.pro/cn/iphone/&quot;&gt;Money Pro&lt;/a&gt;。前面三个中随手记用得久些，但因为没有养成核对的习惯，所以总是会有出入，即使是换到Money Pro，也还是存在对账错误的情况。年初，我曾想换用[MoneyWiz](https://www.wiz.money/，但体验了两周后，还是重新用回Money Pro。&lt;/p&gt;
+
+&lt;p&gt;Money Pro的记账流程很顺畅，界面简约，功能也不复杂，按照自己设定的类别坚持使用，是有数据分析价值的。&lt;/p&gt;
+
+&lt;p&gt;关于记账，随用随记，月底会在Numbers上做收支和资产复盘，在有知有行APP更新时点资产用以观察收益情况。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hipstamatic，相机&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hipstamatic.app/hello&quot;&gt;Hipstamatic&lt;/a&gt;是一款元老级的复古相机APP，学生阶段重度用户，购买了很多Pak，现在还是会使用经典模式，但并不频繁。曾写过一篇Combo分享，详见：&lt;a href=&quot;https://sspai.com/post/41366&quot;&gt;用Hipstamatic制造一万个瞬间&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;除此之外，我还会使用RNI Films和Flashback、Dazzcam，但现在更多使用iPhone自带相机。&lt;/p&gt;
+
+&lt;h3 id=&quot;效率工具&quot;&gt;效率工具&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple Reminder，提醒事项&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;曾经用过&lt;a href=&quot;https://todoist.com/zh-CN&quot;&gt;Todoist&lt;/a&gt;，很喜欢它可以同步到Calendar的功能，但随着免费期结束就不再使用了。Apple Reminder随着不断优化迭代，已经能够胜任大多数使用场景，比如周期性重复提醒、分类、网址跳转等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple Calendar，日历&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;同样是Apple原生应用，轻度使用。目前把iPhone第二屏作为“每日概览”，放置了Calendar月历组件、Reminder当日任务，以及打通了Calendar并能显示天气的&lt;a href=&quot;https://flexibits.com/fantastical&quot;&gt;Fantastical&lt;/a&gt;（仅展示使用）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TXT记事本，工作记录&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;因为办公电脑是Windows系统，而我又要做Work Journal，所以才使用记事本。大道至简，完全能够胜任。我的使用方法：- 后面写已完成的事项；&amp;gt; 写代办；~ 写碎片想法。&lt;/p&gt;
+
+&lt;p&gt;每天记录，每月归档，以便梳理周报和月报。&lt;/p&gt;
+
+&lt;p&gt;如果我使用MacBook，我大概率会选择一个昂贵的APP，叫做&lt;a href=&quot;https://noteplan.co/&quot;&gt;NotePlan&lt;/a&gt;。去年疫情封控期间在自用电脑上使用，订阅了一年，随着复工回到公司就不再使用了。NotePlan以日历+任务为核心完美整合了以上所有功能。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Streaks，习惯养成&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一款习惯养成APP，其实是可有可无的，但一直用着。它具备自动化功能，比如睡觉时长、步数等达到设定目标会自动完成。&lt;/p&gt;
+
+&lt;p&gt;子产品&lt;a href=&quot;https://streaksworkout.app/&quot;&gt;Workout&lt;/a&gt;则值得推荐，我用它进行俯卧撑、仰卧起坐和深蹲的日常锻炼，坚持下去效果很好。&lt;/p&gt;
+
+&lt;h3 id=&quot;资讯工具&quot;&gt;资讯工具&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;NetNewsWire，RSS阅读&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这是一款开源的RSS阅读工具，在使用过Feedly、inoreader并因为墙的原因受限后，&lt;a href=&quot;https://netnewswire.com/&quot;&gt;NetNewsWire&lt;/a&gt;成为我当前的主要资讯工具。&lt;/p&gt;
+
+&lt;p&gt;我订阅了博客、媒体等，感谢还在支持RSS功能的网站。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instapaper，稍后读和Newsletter收件箱&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.instapaper.com/&quot;&gt;Instapaper&lt;/a&gt;手机端虽然从应用商店下架了，但是网页端还是可以正常访问。此前更多是用于稍后读，但现在，我把Instapaper邮箱用以订阅Newsletter，感觉也挺不错的。&lt;/p&gt;
+
+&lt;p&gt;另外，因为对社交媒体上的负面信息，感到抑郁和痛苦，我从去年年底开始不再使用微博，大号只保留了最后一篇Post，其余的全部设置为仅自己可见，小号则关注了E大，接收些理财观点。这让我感到如释重负。（当然，我把更多时间浪费在了小红书上）&lt;/p&gt;
+
+&lt;h3 id=&quot;结语&quot;&gt;结语&lt;/h3&gt;
+
+&lt;p&gt;经过上述的回顾和整理，我发现曾经&lt;strong&gt;在各种数字工具上花费的大量时间，是因为彼时有大量时间可以浪费&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;比如学生时期，大段的时间可以用来折腾。比如今年年初，我失业赋闲在家，不仅每天用Day One写日记，还试用了MoneyWiz，甚至下载了Time Pro记录运动、阅读的时间。但随着找到工作，每天忙碌起来，就会发现&lt;strong&gt;所有的工具最终都要服务于使用目的&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;技术主义者太迷恋工具对工作学习或生活的提升作用。抛开技术批判不谈，只说正面的提升作用，也是有临界点的。如果用一条曲线表示，在临界点前是上升的，但临界点后，这条曲线很可能就变得平滑。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;以终为始，才知道自己真正需要什么；接受不完美，才能放弃去寻找一个完美工具。否则，工具成瘾症无法治愈。&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>等待未来的回眸</title>

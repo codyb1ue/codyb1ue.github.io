@@ -14,8 +14,6 @@ comment: ture
 - **效率**：Apple Reminder、Calendar、TXT记事本、Streaks
 - **资讯**：NetNewsWire、Instapaper
 
----
-
 ### 记录工具
 
 **Notion，笔记存储**
@@ -52,8 +50,6 @@ Money Pro的记账流程很顺畅，界面简约，功能也不复杂，按照�
 
 除此之外，我还会使用RNI Films和Flashback、Dazzcam，但现在更多使用iPhone自带相机。
 
----
-
 ### 效率工具
 
 **Apple Reminder，提醒事项**
@@ -77,8 +73,6 @@ Money Pro的记账流程很顺畅，界面简约，功能也不复杂，按照�
 一款习惯养成APP，其实是可有可无的，但一直用着。它具备自动化功能，比如睡觉时长、步数等达到设定目标会自动完成。
 
 子产品[Workout](https://streaksworkout.app/)则值得推荐，我用它进行俯卧撑、仰卧起坐和深蹲的日常锻炼，坚持下去效果很好。
-
----
 
 ### 资讯工具
 

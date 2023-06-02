@@ -38,7 +38,7 @@ comment: ture
 
 **Money Pro，记账**
 
-回忆起来，记账APP我使用过随手记、DailyCost、iCost，如今固定使用[Money Pro](https://money.pro/cn/iphone/)。前面三个中随手记用得久些，但因为没有养成核对的习惯，所以总是会有出入，即使是换到Money Pro，也还是存在对账错误的情况。年初，我曾想换用[MoneyWiz](https://www.wiz.money/，但体验了两周后，还是重新用回Money Pro。
+回忆起来，记账APP我使用过随手记、DailyCost、iCost，如今固定使用[Money Pro](https://money.pro/cn/iphone/)。前面三个中随手记用得久些，但因为没有养成核对的习惯，所以总是会有出入，即使是换到Money Pro，也还是存在对账错误的情况。年初，我曾想换用[MoneyWiz](https://www.wiz.money/)，但体验了两周后，还是重新用回Money Pro。
 
 Money Pro的记账流程很顺畅，界面简约，功能也不复杂，按照自己设定的类别坚持使用，是有数据分析价值的。
 

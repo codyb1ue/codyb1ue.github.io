@@ -12,11 +12,9 @@ layout: default
   </div>
   {% assign minute=content | number_of_words | divided_by: 265 | plus: 1 %}
   <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }} -  
-    {% if page.minute %} {{ page.minute }} {% else %} {{ minute }} {% endif %}min read - <span id="busuanzi_value_page_pv"></span> views</time>
+    {% if page.minute %} {{ page.minute }} {% else %} {{ minute }} {% endif %}min read - <span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span> views</span></time>
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <span id="busuanzi_container_page_pv">
-    <span id="busuanzi_value_page_pv"></span> views
-  </span>
 
   <h1 class="title">{{ page.title }}</h1>
   <span class="meta">

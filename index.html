@@ -12,8 +12,8 @@ layout: default
 	    {{ site.description }}
         <p>
 	    <a href="{{ site.url }}{{ site.baseurl }}/about/" data-umami-event="{{ site.url }}{{ site.baseurl }}/about/">> About</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/tags/">> Tag</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/atom.xml">> Feed</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}/tags/" data-umami-event="{{ site.url }}{{ site.baseurl }}/tags/">> Tag</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}/atom.xml" data-umami-event="{{ site.url }}{{ site.baseurl }}/atom.xml">> Feed</a>
         </p>
     </div>
 
@@ -42,7 +42,7 @@ layout: default
     <ul>
         <!-- {% for post in site.posts %}
         <li>
-		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-umami-event="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
         {% endfor %} -->

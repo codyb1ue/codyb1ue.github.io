@@ -89,8 +89,3 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-
-paginate:
-  enabled: ture
-  paginate: 15 # jekyll-paginate > items per page
-  paginate_path: "page:num" # jekyll-paginate > blog page

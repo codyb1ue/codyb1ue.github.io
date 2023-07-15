@@ -40,17 +40,6 @@ layout: default
   </nav>
 </section>
 
-{%- if page.id -%}
-<!--Every article has a id, but special pages don't unless you set manually.
-This prevents Cusdis from appear everywhere-->
-<div id="cusdis_thread"
-  data-host="https://cusdis.com"
-  data-app-id="e6543ddc-7183-411a-8df0-b5512a66593aD"
-  data-page-id="{{ page.id }}"
-  data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
-  data-page-title="{{ page.title }}"
-></div>
-<script defer src="https://cusdis.com/js/cusdis.es.js"></script>
-{%- endif -%}
+{% include cusdis.html %}
 
 {% include disqus.html %}

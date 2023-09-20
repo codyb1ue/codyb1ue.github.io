@@ -1,0 +1,15 @@
+
+---
+layout: post
+comment: true
+mintue: false
+---
+
+<p>
+  随便聊聊
+<br>
+  Shall we talk？
+</p>
+
+{% include cusdis.html %}
+

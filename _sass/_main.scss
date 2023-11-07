@@ -381,14 +381,14 @@ main {
 	justify-content: space-between;
 }
 
-.flex-column-between {
+.link-container {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
 }
 
-.flex-column-between .link-container a {
-    text-align: right;
+.link-item {
+    margin-bottom: 10px; /* 控制链接之间的垂直间距 */
 }
 
 .social-footer {

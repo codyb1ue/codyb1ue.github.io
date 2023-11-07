@@ -381,6 +381,16 @@ main {
 	justify-content: space-between;
 }
 
+.flex-column-between {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.flex-column-between .link-container a {
+    text-align: right;
+}
+
 .social-footer {
   padding: 1rem;
   display: flex;

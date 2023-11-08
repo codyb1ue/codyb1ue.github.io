@@ -3,11 +3,26 @@ layout: default
 ---
 <section id="intro">
     <div class="flex-row-between">
-        <h1>{{ site.greetings }}</h1>
+    <h1>{{ site.greetings }}</h1>
+    <div class="button-container">
         <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
+        <button title="Select language" id="language-toggle"><i class="fa fa-language" aria-hidden="true"></i>
+            <div></div>
+        </button>
     </div>
+</div>
+
+// 找到按钮元素
+var button = document.getElementById("language-toggle");
+
+// 添加点击事件监听器
+button.addEventListener("click", function() {
+    // 在这里执行页面切换的操作
+    window.location.href = "{{ site.url }}{{ site.baseurl }}"; // 替换 "目标网页的URL" 为你要跳转的网页的实际URL
+});
+	
     <div class="bio">
 	    {{ site.description }}
         <p>
@@ -17,8 +32,7 @@ layout: default
 	    <a href="{{ site.url }}{{ site.baseurl }}" data-umami-event="{{ site.url }}{{ site.baseurl }}">> Chinese</a>
         </p>
     </div>
-
-
+	
 </section>
 
 
@@ -47,7 +61,6 @@ layout: default
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
         {% endfor %} -->
-	<a href="{{ site.url }}{{ site.baseurl }}">> Chinese</a>&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/en">> English</a>
         {% for post in site.posts %}
             {% if post.lang=en %}
             <li>

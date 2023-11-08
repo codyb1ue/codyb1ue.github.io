@@ -13,8 +13,8 @@ layout: default
         <p>
 	    <a href="{{ site.url }}{{ site.baseurl }}/zh/about/" data-umami-event="{{ site.url }}{{ site.baseurl }}/zh/about/">> About</a>
 	    <a href="{{ site.url }}{{ site.baseurl }}/tags/" data-umami-event="{{ site.url }}{{ site.baseurl }}/tags/">> Tag</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/atom.xml" data-umami-event="{{ site.url }}{{ site.baseurl }}/atom.xml">> Feed</a>
-	    <a href="https://www.buymeacoffee.com/memozine" data-umami-event="https://www.buymeacoffee.com/memozine">> Give Me Five</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}/atom.xml" data-umami-event="{{ site.url }}{{ site.baseurl }}/atom.xml">> Subscribe</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}/en" data-umami-event="{{ site.url }}{{ site.baseurl }}/en">> English</a>
         </p>
     </div>
 
@@ -47,18 +47,8 @@ layout: default
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
         {% endfor %} -->
-        Pinned Post!
         {% for post in site.posts %}
-            {% if post.pinned %}
-            <li>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-umami-event="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-            </li>
-            {% endif %}
-        {% endfor %}
-        Regular Post.
-        {% for post in site.posts %}
-            {% unless post.pinned %}
+            {% unless post.lang=en %}
             <li>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-umami-event="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>

@@ -391,6 +391,12 @@ main {
     margin-bottom: 1px; /* 控制链接之间的垂直间距 */
 }
 
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
 .social-footer {
   padding: 1rem;
   display: flex;

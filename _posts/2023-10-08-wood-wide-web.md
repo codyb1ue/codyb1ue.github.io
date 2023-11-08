@@ -3,7 +3,7 @@ layout: post
 title: 树维网
 tags: record
 minute: 3
-comment: ture
+comment: true
 ---
 一直对Wood Wide Web（树维网）这个概念感兴趣。
 

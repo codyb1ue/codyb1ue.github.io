@@ -3,7 +3,7 @@ layout: post
 title: AI就像幽灵
 tags: comment
 minute: 2
-comment: ture
+comment: true
 ---
 1
 

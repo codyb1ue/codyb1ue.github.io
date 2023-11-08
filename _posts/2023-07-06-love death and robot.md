@@ -3,7 +3,7 @@ layout: post
 title: Love, Death & Robots 再理解
 tags: comment
 minute: 5
-comment: ture
+comment: true
 ---
 
 “Love, Death & Robots”，中文翻译为“爱、死亡和机器人”，或者更为简短的“爱死机”，甚至直接用 Emoji 表示：❤️💀🤖️。

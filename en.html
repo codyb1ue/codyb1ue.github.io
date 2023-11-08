@@ -14,14 +14,12 @@ layout: default
     </div>
 </div>
 
-// 找到按钮元素
+<script>
 var button = document.getElementById("language-toggle");
-
-// 添加点击事件监听器
 button.addEventListener("click", function() {
-    // 在这里执行页面切换的操作
-    window.location.href = "{{ site.url }}{{ site.baseurl }}"; // 替换 "目标网页的URL" 为你要跳转的网页的实际URL
+    window.location.href = "{{ site.url }}{{ site.baseurl }}";
 });
+</script>
 	
     <div class="bio">
 	    {{ site.description }}

@@ -60,7 +60,7 @@ button.addEventListener("click", function() {
         </li>
         {% endfor %} -->
         {% for post in site.posts %}
-            {% if post.lang=en %}
+            {% if post.lang == "en" %} 
             <li>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-umami-event="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>

@@ -14,7 +14,7 @@ layout: default
 	    <a href="{{ site.url }}{{ site.baseurl }}/en/about/" data-umami-event="{{ site.url }}{{ site.baseurl }}/en/about/">> About</a>
 	    <a href="{{ site.url }}{{ site.baseurl }}/tags/" data-umami-event="{{ site.url }}{{ site.baseurl }}/tags/">> Tag</a>
 	    <a href="{{ site.url }}{{ site.baseurl }}/atom.xml" data-umami-event="{{ site.url }}{{ site.baseurl }}/atom.xml">> Subscribe</a>
-	    <a href="https://memozine.me" data-umami-event="https://memozine.me">> Chinese</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}" data-umami-event="{{ site.url }}{{ site.baseurl }}">> Chinese</a>
         </p>
     </div>
 
@@ -39,7 +39,9 @@ layout: default
 </div>
 
 <section class="posts" id="Blog">
-    <h2>BLOG</h2>
+    <div class="flex-row-between">
+	<h2>BLOG</h2>
+    	<a href="{{ site.url }}{{ site.baseurl }}" <i class="fa fa-globe" aria-hidden="true"></i> Chinese</a>
     <ul>
         <!-- {% for post in site.posts %}
         <li>

@@ -3,7 +3,7 @@ layout: post
 title: 等待未来的回眸
 tags: comment
 minute: 5
-comment: ture
+comment: true
 
 ---
 

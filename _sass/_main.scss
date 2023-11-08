@@ -158,6 +158,29 @@ html[data-theme="dark"] {
 	}
 }
 
+#language-toggle {
+    opacity: 0.65;
+    position: relative;
+    border-radius: 5px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.3s ease 0s;
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    padding: 0px;
+    appearance: none;
+    transform: scale(0.8);
+}
+
+#language-toggle i.fa-language {
+    /* 如果使用 Font Awesome 图标，你可以设置图标的样式 */
+    /* 这里可以添加图标的样式属性，例如颜色、大小等 */
+}
+
 body {
 	font-family: var(--text-font), monospace;
 	text-rendering: optimizeLegibility;

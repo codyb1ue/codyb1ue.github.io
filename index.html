@@ -3,20 +3,23 @@ layout: default
 ---
 <section id="intro">
     <div class="flex-row-between">
-        <h1>{{ site.greetings }}</h1>
+    <h1>{{ site.greetings }}</h1>
+    <div class="button-container">
         <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
+        <button title="Select language" id="language-toggle"><i class="fa fa-language" aria-hidden="true"></i>
+            <div></div>
+        </button>
     </div>
-    <div class="bio">
-	    {{ site.description }}
-        <p>
-	    <a href="{{ site.url }}{{ site.baseurl }}/zh/about/" data-umami-event="{{ site.url }}{{ site.baseurl }}/zh/about/">> About</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/tags/" data-umami-event="{{ site.url }}{{ site.baseurl }}/tags/">> Tag</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/atom.xml" data-umami-event="{{ site.url }}{{ site.baseurl }}/atom.xml">> Subscribe</a>
-	    <a href="{{ site.url }}{{ site.baseurl }}/en" data-umami-event="{{ site.url }}{{ site.baseurl }}/en">> English</a>
-        </p>
-    </div>
+</div>
+
+<script>
+var button = document.getElementById("language-toggle");
+button.addEventListener("click", function() {
+    window.location.href = "{{ site.url }}{{ site.baseurl }}/en";
+});
+</script>
 
 
 </section>

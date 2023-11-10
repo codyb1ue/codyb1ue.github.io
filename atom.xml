@@ -4,7 +4,7 @@
  <title>Memzoine</title>
  <link href="https://memozine.me/atom.xml" rel="self"/>
  <link href="https://memozine.me/"/>
- <updated>2023-11-10T09:53:44+08:00</updated>
+ <updated>2023-11-10T09:59:46+08:00</updated>
  <id>https://memozine.me</id>
  <author>
    <name>Cody</name>
@@ -113,7 +113,7 @@
 
 &lt;p&gt;&lt;strong&gt;No such person.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h6 id=&quot;enjoyed-the-article-i-write-about-1-2-a-month-subscribe-viaemailorrss-feed&quot;&gt;Enjoyed the article? I write about 1-2 a month. Subscribe via &lt;a href=&quot;https://memozine.me/en/subscribe/&quot;&gt;email&lt;/a&gt; or &lt;a href=&quot;https://memozine.me/atom.xml&quot;&gt;RSS feed&lt;/a&gt;.&lt;/h6&gt;
+&lt;p&gt;&lt;em&gt;Enjoyed the article? I write about 1-2 a month. Subscribe via &lt;a href=&quot;https://memozine.me/en/subscribe/&quot;&gt;email&lt;/a&gt; or &lt;a href=&quot;https://memozine.me/atom.xml&quot;&gt;RSS feed&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  

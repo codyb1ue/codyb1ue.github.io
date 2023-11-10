@@ -47,4 +47,4 @@ Now, like a lurker of the internet, I have possibly responded to my farewell mes
 
 **No such person.**
 
-###### Enjoyed the article? I write about 1-2 a month. Subscribe via [email](https://memozine.me/en/subscribe/) or [RSS feed](https://memozine.me/atom.xml).
+*Enjoyed the article? I write about 1-2 a month. Subscribe via [email](https://memozine.me/en/subscribe/) or [RSS feed](https://memozine.me/atom.xml).*

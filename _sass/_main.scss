@@ -599,6 +599,14 @@ color: #333;
 	text-overflow: ellipsis;
 	}
 
+.pagination {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pagination-buttons {
+    display: flex;
+}
 
   // ------------------------------------
 $link-color: var(--link-color);

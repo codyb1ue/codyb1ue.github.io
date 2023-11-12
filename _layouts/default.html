@@ -76,9 +76,8 @@ layout: compress
 </footer>
 
 
-{% if page.url == '/' %}
-  <script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
-  <script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
+<script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('search-results'),
@@ -88,8 +87,7 @@ layout: compress
       limit: 10,
       fuzzy: true,
     })
-  </script>
-  {% endif %}
+</script>
 
 
 </html>

@@ -47,4 +47,4 @@ lang: zh
 
 4. 增加了[邮箱订阅](https://memozine.me/zh/subscribe/)服务。我按照[博文](https://irithys.com/p/blog-newsletter/)中提到的TinyLetter + Zapier，进行了试验。TinyLetter功能简约，界面美观。因为发布频率不高，所以决定绕过Zapier，直接在TinyLetter后台编辑发布。欢迎大家邮件订阅。
 
-5. 增加了分页功能。同样在ChatGPT的指导下完成。并在default.html中删除了{% if page.url == '/' %}，以确保每页都能实现搜索功能。
+5. 增加了分页功能。同样在ChatGPT的指导下完成。并在default.html中删除了 {*% if page.url == '/' %*} ，以确保每页都能实现搜索功能。

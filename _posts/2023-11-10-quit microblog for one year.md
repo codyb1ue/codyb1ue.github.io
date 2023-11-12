@@ -46,3 +46,5 @@ lang: zh
 3. 增加了[投币](https://www.buymeacoffee.com/memozine)功能，Buy Me A Coffee。在页面底部添加了咖啡图标，在博文结尾也加入点赞图标，点击后可触发。尽管这一功能有些水土不服，但我没有看到更合适和通用的服务。
 
 4. 增加了[邮箱订阅](https://memozine.me/zh/subscribe/)服务。我按照[博文](https://irithys.com/p/blog-newsletter/)中提到的TinyLetter + Zapier，进行了试验。TinyLetter功能简约，界面美观。因为发布频率不高，所以决定绕过Zapier，直接在TinyLetter后台编辑发布。欢迎大家邮件订阅。
+
+5. 增加了分页功能。同样在ChatGPT的指导下完成。并在default.html中删除了{% if page.url == '/' %}，以确保每页都能实现搜索功能。

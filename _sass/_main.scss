@@ -601,18 +601,21 @@ color: #333;
 
 .pagination {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
 }
 
 .pagination-buttons {
     display: flex;
-    width: 100%;
 }
 
-.previous,
-.next {
-    flex: 1;
+.previous {
+    margin-right: auto;
 }
+
+.next {
+    margin-left: 10px;
+}
+
 
   // ------------------------------------
 $link-color: var(--link-color);

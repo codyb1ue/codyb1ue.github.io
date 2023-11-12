@@ -606,16 +606,13 @@ color: #333;
 
 .pagination-buttons {
     display: flex;
+    width: 100%;
 }
 
-.previous {
-    margin-right: auto;
-}
-
+.previous,
 .next {
-    margin-left: auto;
+    flex: 1;
 }
-
 
   // ------------------------------------
 $link-color: var(--link-color);

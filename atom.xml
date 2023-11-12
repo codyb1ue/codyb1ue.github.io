@@ -4,7 +4,7 @@
  <title>Memzoine</title>
  <link href="https://memozine.me/atom.xml" rel="self"/>
  <link href="https://memozine.me/"/>
- <updated>2023-11-12T19:48:26+08:00</updated>
+ <updated>2023-11-12T19:58:08+08:00</updated>
  <id>https://memozine.me</id>
  <author>
    <name>Cody</name>
@@ -61,6 +61,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;增加了&lt;a href=&quot;https://memozine.me/zh/subscribe/&quot;&gt;邮箱订阅&lt;/a&gt;服务。我按照&lt;a href=&quot;https://irithys.com/p/blog-newsletter/&quot;&gt;博文&lt;/a&gt;中提到的TinyLetter + Zapier，进行了试验。TinyLetter功能简约，界面美观。因为发布频率不高，所以决定绕过Zapier，直接在TinyLetter后台编辑发布。欢迎大家邮件订阅。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;增加了分页功能。同样在ChatGPT的指导下完成。并在default.html中删除了 {&lt;em&gt;% if page.url == ‘/’ %&lt;/em&gt;} ，以确保每页都能实现搜索功能。&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 </content>

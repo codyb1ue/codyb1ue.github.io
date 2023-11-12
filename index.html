@@ -51,37 +51,6 @@ button.addEventListener("click", function() {
     <ul id="search-results"></ul>
 </div>
 
-// 示例搜索脚本
-
-$(document).ready(function() {
-    // 初始化搜索功能
-    initSearch();
-
-    // 当分页链接被点击时，重新绑定搜索功能
-    $(document).on('click', '.pagination a', function(e) {
-        e.preventDefault();
-        var pageUrl = $(this).attr('href');
-        
-        // 加载新页面
-        loadNewPage(pageUrl);
-
-        // 重新初始化搜索功能
-        initSearch();
-    });
-});
-
-function initSearch() {
-    // 在这里添加你的搜索初始化逻辑
-    // 使用 searchData 变量进行搜索
-    // ...
-}
-
-function loadNewPage(url) {
-    // 在这里添加加载新页面的逻辑
-    // 可以使用 AJAX 或其他方式加载新页面内容
-    // ...
-}
-
 <section class="posts" id="Blog">
     <h2>BLOG</h2>
     <ul>
@@ -98,21 +67,15 @@ function loadNewPage(url) {
 	
 <div class="pagination">
     {% if paginator.total_pages > 1 %}
-        {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
-        {% endif %}
-
-        {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-                <span class="page-number current">{{ page }}</span>
-            {% else %}
-                <a href="{{ paginator.paginate_path | relative_url | replace: ":num", page }}" class="page-number">{{ page }}</a>
+        <div class="pagination-buttons">
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
             {% endif %}
-        {% endfor %}
 
-        {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
-        {% endif %}
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
+            {% endif %}
+        </div>
     {% endif %}
 </div>
 

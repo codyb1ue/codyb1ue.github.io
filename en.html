@@ -33,7 +33,31 @@ button.addEventListener("click", function() {
 	
 </section>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // 检查是否是分页
+    var isPaginatedPage = window.location.pathname.includes('/page/');
 
+    if (!isPaginatedPage) {
+        // 只有在非分页页面时才初始化搜索
+        var search = SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('search-results'),
+            json: '{{ site.baseurl }}/search.json',  // 替换成你的搜索数据路径
+            // 其他配置项...
+        });
+
+        // 触发搜索
+        search.start();
+
+        // 在页面分页后重新触发搜索
+        document.addEventListener('page:change', function() {
+            console.log('Page change event triggered. Reinitializing search.');
+            search.start();
+        });
+    }
+});
+</script>
 
 <div class="search-article">
     <label for="search-input" aria-hidden="true">

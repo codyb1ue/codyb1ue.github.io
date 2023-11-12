@@ -51,25 +51,6 @@ button.addEventListener("click", function() {
     <ul id="search-results"></ul>
 </div>
 
-<section class="posts" id="Blog">
-    <h2>BLOG</h2>
-    <ul>
-        <!-- {% for post in site.posts %}
-        <li>
-		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-        </li>
-        {% endfor %} -->
-        {% for post in site.posts %}
-            {% unless post.lang == "en" %}
-            <li>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-umami-event="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-            </li>
-            {% endunless %}
-        {% endfor %}
-    </ul>
-
 
 <section class="posts" id="Blog">
     <h2>BLOG</h2>
@@ -86,24 +67,24 @@ button.addEventListener("click", function() {
 </section>
 	
 <div class="pagination">
-        {% if paginator.total_pages > 1 %}
-            {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
-            {% endif %}
-
-            {% for page in (1..paginator.total_pages) %}
-                {% if page == paginator.page %}
-                    <span class="page-number current">{{ page }}</span>
-                {% else %}
-                    <a href="{{ page | relative_url }}" class="page-number">{{ page }}</a>
-                {% endif %}
-            {% endfor %}
-
-            {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
-            {% endif %}
+    {% if paginator.total_pages > 1 %}
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
         {% endif %}
-    </div>
+
+        {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+                <span class="page-number current">{{ page }}</span>
+            {% else %}
+                <a href="{{ paginator.paginate_path | relative_url | replace: ":num", page }}" class="page-number">{{ page }}</a>
+            {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
+        {% endif %}
+    {% endif %}
+</div>
 </section>
 	
 <script async src="https://analytics.umami.is/script.js" data-website-id="54863c48-1c0e-41ba-9e5d-4705aeea6d36"></script>

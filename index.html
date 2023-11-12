@@ -73,7 +73,7 @@ button.addEventListener("click", function() {
         {% endif %}
 
         {% for page in (1..paginator.total_pages) %}
-            {% assign page_url = paginator.paginate_path | relative_url | replace: ":num", page %}
+            {% assign page_url = paginator.paginate_path | replace: ":num", page | relative_url %}
             {% if page == paginator.page %}
                 <span class="page-number current">{{ page }}</span>
             {% else %}

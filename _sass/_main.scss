@@ -601,7 +601,7 @@ color: #333;
 
 .pagination {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between; 
 }
 
 .pagination-buttons {
@@ -609,12 +609,13 @@ color: #333;
 }
 
 .previous {
-    margin-right: auto;
+    order: 1;
 }
 
 .next {
-    margin-left: 10px;
+    order: 3;
 }
+
 
 
   // ------------------------------------

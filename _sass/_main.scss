@@ -608,6 +608,15 @@ color: #333;
     display: flex;
 }
 
+.previous {
+    margin-right: auto;
+}
+
+.next {
+    margin-left: auto;
+}
+
+
   // ------------------------------------
 $link-color: var(--link-color);
 

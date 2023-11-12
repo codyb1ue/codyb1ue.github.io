@@ -51,6 +51,19 @@ button.addEventListener("click", function() {
     <ul id="search-results"></ul>
 </div>
 
+<!-- Simple-Jekyll-Search Initialization -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('search-results'),
+        json: '{{ site.baseurl }}/search.json',
+    });
+
+    SimpleJekyllSearch.search(''); 
+</script>
+
+
 <section class="posts" id="Blog">
     <h2>BLOG</h2>
     <ul>

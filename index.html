@@ -69,15 +69,20 @@ button.addEventListener("click", function() {
     {% if paginator.total_pages > 1 %}
         <div class="pagination-buttons">
             {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
+                <div class="previous">
+                    <a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+                </div>
             {% endif %}
 
             {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
+                <div class="next">
+                    <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+                </div>
             {% endif %}
         </div>
     {% endif %}
 </div>
+
 
 </section>
 	

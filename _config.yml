@@ -90,5 +90,5 @@ relative_links:
   enabled:     true
   collections: false
 
-paginate: 15
+paginate: 20
 paginate_path: "/blog/page:num/"

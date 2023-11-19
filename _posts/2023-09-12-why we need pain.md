@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “这一切我都要”：韩炳哲的痛苦宣言
-tags: comment
+tags: review
 minute: 5
 comment: true
 ---

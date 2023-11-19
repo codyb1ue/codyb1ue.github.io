@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 巴别塔与巴别塔毁灭之后
-tags: comment
+tags: review
+minute: 3
 ---
 
 我之前洋洋自得地写过这样一段话：

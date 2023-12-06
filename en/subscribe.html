@@ -8,8 +8,11 @@ layout: page
 
 <p>
 <h3>Email 📮</h3>
-<iframe src="https://embeds.beehiiv.com/a6294498-382b-48e5-8f8b-a096ec48bcd5?slim=true" data-test-id="beehiiv-embed" width:20px frameborder="0" scrolling="no" align="left" style="margin: 0px; padding:3px; border-radius: 0px !important; background-color: transparent;"></iframe>
-    
+<form style="padding:3px;text-align:left;" action="https://tinyletter.com/Memozine" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Memozine', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <p><label for="tlemail">Enter your email address</label></p>
+  <p><input type="text" style="width:170px" name="email" id="tlemail" />
+  </p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" />
+</form>   
 <br>
 <h3>RSS Feed 📡</h3>
 <p>Subscribe to this blog by <a href="{{ site.url }}{{ site.baseurl }}/atom.xml">RSS</a> for the latest content.</p>

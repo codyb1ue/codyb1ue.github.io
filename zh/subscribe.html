@@ -8,11 +8,17 @@ layout: page
 
 <p>
 <h3>邮件订阅 📮</h3>
-<form style="padding:3px;text-align:left;" action="https://tinyletter.com/Memozine" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Memozine', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">请输入电子邮箱地址</label></p>
-  <p><input type="text" style="width:170px" name="email" id="tlemail" />
-  </p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" />
-</form>
+<form style="padding:3px;text-align:left;"
+     action="https://buttondown.email/api/emails/embed-subscribe/memozine"
+     method="post"
+     target="popupwindow"
+     onsubmit="window.open('https://buttondown.email/memozine', 'popupwindow')"
+     class="embeddable-buttondown-form">
+  <p><label for="bd-email">请输入电子邮箱地址</label></p>
+  <p><input type="email" style="width:170px" name="email" id="bd-email" /></p>
+  <p><input type="hidden" value="1" name="embed"/></p>
+  <p><input type="submit" value="Subscribe" /></p>
+</form>   
 <br>
 <h3>RSS Feed 📡</h3>
 <p>订阅 <a href="{{ site.url }}{{ site.baseurl }}/atom.xml">RSS</a> 获取最新内容，或搜索“memozines”关注微信公众号。</p></p>

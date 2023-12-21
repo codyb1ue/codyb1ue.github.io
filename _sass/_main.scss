@@ -869,3 +869,11 @@ $link-color: var(--link-color);
   text-align: center;
 }
 
+button {
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+

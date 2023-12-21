@@ -4,7 +4,7 @@ function myFunction() {
   modal.style.cssText = "position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); display: flex; justify-content: center; align-items: center;";
 
   var image = document.createElement("img");
-  image.src = "图片的链接";
+  image.src = "https://cdn.sspai.com/12/19/2023/article/d7ca27f8-b526-eaad-c8f6-491c92d87382.jpg?imageMogr2/auto-orient/quality/95/thumbnail/!2880x730r/gravity/Center/crop/2880x730/interlace/1";
   image.style.cssText = "max-width: 80%; max-height: 80%;";
 
   modal.appendChild(image);

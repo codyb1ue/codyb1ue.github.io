@@ -853,3 +853,19 @@ $link-color: var(--link-color);
     
   }
 }
+
+#qr {
+  text-align: center;
+}
+
+#qr img {
+  display: block;
+  margin: 0 auto;
+  width: 300px; 
+  height: auto;
+}
+
+#qr p {
+  text-align: center;
+}
+

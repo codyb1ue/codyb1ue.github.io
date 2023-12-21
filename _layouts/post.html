@@ -21,7 +21,18 @@ layout: default
     <a href="{{ site.url }}{{ site.baseurl }}/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
   {{ content }}
   <p align="center"><a href="https://www.buymeacoffee.com/memozine" target="_blank"><i class="fa fa-thumbs-up" aria-hidden="true"></i></a></p>
-
+  <div class="reward-container">
+   <div></div>
+   <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    Donate
+   </button>
+   <div id="qr" style="display: block;">
+      <div style="display: inline-block;">
+      <img src="img/reward.jpg" alt="Wechat">
+      <p>Wechat</p>
+      </div>
+  </div>
+</div>
 </section>
 
 

@@ -12,6 +12,8 @@ lang: zh
 
 #### 6月21日-24日，@韩国首尔
 
+<iframe src="//player.bilibili.com/player.html?aid=955354335&bvid=BV1as4y1F79F&cid=1177388021&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 *点击《[在首尔，极速前进](https://www.bilibili.com/video/BV1as4y1F79F/)》观看视频*
 
 **去了哪里？**

@@ -54,6 +54,8 @@ lang: zh
 
 #### 9月28日-10月6日，@澳大利亚
 
+<iframe src="//player.bilibili.com/player.html?aid=962114482&bvid=BV1HH4y1R7Qk&cid=1297218011&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 *点击《[在珀斯和布里斯班，做场白日梦](https://www.bilibili.com/video/BV1HH4y1R7Qk/)》观看视频*
 
 **Perth**

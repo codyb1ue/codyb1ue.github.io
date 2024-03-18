@@ -300,7 +300,7 @@
 <loc>https://memozine.me/guestbook/</loc>
 </url>
 <url>
-<loc>https://memozine.me/tag/record/</loc>
+<loc>https://memozine.me/tag/comment/</loc>
 </url>
 <url>
 <loc>https://memozine.me/tag/journal/</loc>
@@ -309,7 +309,7 @@
 <loc>https://memozine.me/tag/publish/</loc>
 </url>
 <url>
-<loc>https://memozine.me/tag/review/</loc>
+<loc>https://memozine.me/tag/record/</loc>
 </url>
 <url>
 <loc>https://memozine.me/tag/novel/</loc>
@@ -318,7 +318,7 @@
 <loc>https://memozine.me/</loc>
 </url>
 <url>
-<loc>https://memozine.me/tag/comment/</loc>
+<loc>https://memozine.me/tag/review/</loc>
 </url>
 <url>
 <loc>https://memozine.me/zh/subscribe/</loc>

@@ -3,7 +3,7 @@ layout: post
 title: 真菌计算机
 tags: record
 minute: 5
-comment: "true"
+comment: true
 description: 真菌既自称一界，又和其他的动物和植物，以及人和生态，充满着互动及共生关系。同时，菌丝体作为一种去中心化的网络，充满着智慧。真菌计算机是否可能实现？或许我们借其监测地球生态，也就从万维网进入了树维网，甚至是整个地球的信息网络。
 lang: zh
 ---

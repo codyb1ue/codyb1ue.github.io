@@ -3,7 +3,7 @@ layout: post
 title: I quit Microblog for one year and it feels good
 tags: journal
 minute: 4
-comment: "true"
+comment: true
 description: Quitting Microblog was the first step in curing myself of information fatigue syndrome, then I spent much more time on books, films, and studying. At the same time, my desire to snoop on others and share my life on social media decreased surprisingly. I realised that social media is not just a photo wall like Instagram, but also an arena where users compete with each other by creating a positive image of life.
 lang: en
 ---

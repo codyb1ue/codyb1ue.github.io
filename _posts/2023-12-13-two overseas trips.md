@@ -3,7 +3,7 @@ layout: post
 title: 两次旅行
 tags: journal
 minute: 4
-comment: "true"
+comment: true
 description: 今年有两次旅行，一次是在端午假期去韩国，一次是在国庆假期去澳大利亚。本文打破流水账式的记录方式，提取信息点，多谈谈旅行体验和个人感受。
 lang: zh
 ---

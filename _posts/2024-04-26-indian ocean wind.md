@@ -10,8 +10,11 @@ lang: zh
 ---
 2004年，胡德夫在悠扬的钢琴声中，吟唱着“太平洋的风”。2012年，韩寒从台湾旅行返回后，以此为题创作了一篇[散文](https://www.douban.com/note/214195489/?_i=4117052of6hO7p)。今天，我想挪用下标题，写写“**印度洋的风**”。
 
->珀斯位于澳洲大陆西部，紧邻印度洋，属地中海气候，夏季干燥炎热，冬季温和湿润。
->——维基百科如是描述道。
+![indian ocean wind](/img/2024/indian-ocean-wind.jpg)
+
+>**珀斯位于澳洲大陆西部，紧邻印度洋，属地中海气候，夏季干燥炎热，冬季温和湿润。**
+>
+>_——维基百科如是描述道。_
 
 三月初抵达珀斯至今，始终是晴朗天气，充足的阳光在我的皮肤上留下了影子，干燥的空气也让我的干眼症愈发严重。夜里，风从四面八方吹来，或许是印度洋，或许是内陆，撞击着窗户玻璃，发出哐当哐当的声响。卧室成了港口，床似轻舟，等待一场雨来解渴，送它出海。
 
@@ -29,8 +32,9 @@ lang: zh
 
 与此同时，
 
->作为一个从大陆来的写作者，我只是非常失落。
->——韩寒《太平洋的风》
+>**作为一个从大陆来的写作者，我只是非常失落。**
+>
+>_——韩寒《太平洋的风》_
 
 这种失落感在于对比。
 
@@ -44,8 +48,9 @@ lang: zh
 
 当然，澳大利亚也自有它的“失落”。
 
-> Albo is destroying Australia at lightening speed.
-> ——[MarcoBusiness](https://www.macrobusiness.com.au/2024/04/time-to-face-facts-albo-is-destroying-australia-at-lightening-speed/)
+> **Albo is destroying Australia at lightening speed.**
+> 
+> _——[MarcoBusiness](https://www.macrobusiness.com.au/2024/04/time-to-face-facts-albo-is-destroying-australia-at-lightening-speed/)_
 
 在珀斯市中心的黄金地段，我看到不少空置的写字楼张贴着招租海报。
 
@@ -63,7 +68,8 @@ lang: zh
 
 诸如此类的话题及其讨论，常见于网络论坛和新闻报道中，构成了一种理解当前社会的叙事逻辑。
 
->太平洋的风一直在吹。
->——胡德夫在歌中唱道
+>**太平洋的风一直在吹。**
+>
+>_——胡德夫在歌中唱道_
 
 同样的，印度洋的风也一直在吹。地理气候、文化气候、舆论气候、政经气候，这些宏观的变与不变，正在影响着每一个人的微观感受。

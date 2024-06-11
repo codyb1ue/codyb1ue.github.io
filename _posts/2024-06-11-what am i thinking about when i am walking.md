@@ -59,3 +59,5 @@ The same is true of Perth, but the difference is that the roads and their sides 
 Let's end with a quote from the book '[Wanderlust: A History of Walking](https://www.goodreads.com/book/show/78287.Wanderlust)'.
 
 >Walking makes it possible to string everything together, because only by walking can you live in the whole world, not just in the little worlds that divide it.
+
+*Enjoyed the article? I write about 1-2 a month. Subscribe via [email](https://memozine.me/en/subscribe/) or [RSS feed](https://memozine.me/atom.xml).*

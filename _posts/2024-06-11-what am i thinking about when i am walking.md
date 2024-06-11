@@ -40,7 +40,7 @@ The same is true of Perth, but the difference is that the roads and their sides 
 
 - I also listen to music, but at a much lower frequency, more to create a separation from the outside than to listen.
 
-- Murmuring what I see in English, or saying what I see in English.
+- Murmuring what I see in English.
 
 - Destination means 'purpose'. When I'm walking, I'm thinking about what to do and how to do it.
 

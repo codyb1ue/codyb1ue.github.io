@@ -27,8 +27,7 @@ Micheal对**亲密关系和家庭**有着一种理想化的迷恋。这种迷恋
 
 Micheal的确非常喜欢Prince Paper，在他决定辞职（S5E21）之后，他的就职意向清单上只写了两行：
 
-> Prince Paper
-> Other Companies
+> Prince Paper；Other Companies
 
 Prince Paper是除了Dunder Mifflin之外，他第一也是唯一想去的地方，可惜电话那头传来的声音是：**我们已结束经营**。不知Micheal是否会在某个时刻怀疑，是自己毁掉了自己梦想的公司（家）。
 

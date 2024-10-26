@@ -51,7 +51,7 @@ Michael始终难以忘记Holly，编剧也终于让Holly在第7季回归了办�
 
 当然，除了Michael，《The Office》的其他角色也都各有亮点，总能让人捧腹大笑。我觉得这部剧属于远臭近香，尤其是第1季太过冷幽默，我一度放弃了。后来从第2季重新开始看，才感受到了The Office的魅力。
 
-用[Billie Elish](https://www.vulture.com/2019/04/billie-eilish-the-office-obsession-explained.html)的话说：“When I wake up, I put on The Office. If I’m making a burrito, I turn on The Office.
+用[Billie Elish](https://www.vulture.com/2019/04/billie-eilish-the-office-obsession-explained.html)的话说：“When I wake up, I put on The Office. If I’m making a burrito, I turn on The Office.”
 
 
 

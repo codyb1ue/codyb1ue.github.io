@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Partial View of Bali
+title: A partial view of Bali
 tags:
   - journal
 minute: 3
@@ -9,7 +9,7 @@ description: No matter what, a five-day trip is, by nature, partial — geograph
 lang: en
 ---
 
-In early april, we visited Bali.
+In early April, we visited Bali.
 
 Compared to the dry climate of Perth, the moment we stepped off the plane, we could feel the humidity of the tropics. It was already midnight when we arrived, and we took the hotel shuttle to our accommodation. It wasn’t until the next day that we truly saw Bali — sun-drenched and completely exposed under the daylight.
 

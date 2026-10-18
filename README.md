@@ -5,7 +5,7 @@
 <p>嗨，我是Cody，目前居住在澳大利亚珀斯。热爱写作、阅读，逛公园和晒太阳。<br>现阶段的生活主题是：<b>攒钱、极简生活、停止怀旧、信息戒断。</b><br>欢迎给我 <a href="mailto:memozine.me@outlook.com">写信</a> 。</p>
 <br>
 <h3>Blog 🕐</h3>
-<p>感谢 Github 提供托管服务，Jekyll 提供静态页面渲染，<a href="https://cusdis.com">Cusdis</a> 提供评论功能，<a href="https://buttondown.email/refer/memozine">Buttondown</a> 提供邮箱订阅。博客主题基于 <a href="https://github.com/DavideBri/Gesko">Gesko</a> 调整。</p>
+<p>感谢 Github 提供托管服务，Jekyll 提供静态页面渲染，Gitcus 提供评论功能，<a href="https://buttondown.email/refer/memozine">Buttondown</a> 提供邮箱订阅。博客主题基于 <a href="https://github.com/DavideBri/Gesko">Gesko</a> 调整。</p>
 <br>
 <h3>Donate ☕️</h3>
 <p>你可以免费阅读所有内容，欢迎 <a href="https://memozine.me/donate">投币</a> 支持我和我的博客。</p>

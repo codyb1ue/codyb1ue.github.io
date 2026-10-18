@@ -1,67 +1,13 @@
-# Gesko
-
-Simple and minimal Jekyll blog. 
-Forked from [Asko](https://github.com/manuelmazzuola/asko).
-Original theme from [Sidey](https://github.com/ronv/sidey).
-
-### Features
-
-- [x] Responsive Design
-- [x] Dark/Ligh theme 🌗
-- [x] Inline CSS
-- [x] Anchor headings
-- [x] Tags & Tag pages 
-- [x] 404 page 
-- [x] Robots.txt 🤖
-- [x] Atom & Json feeds 📡
-- [x] Sass 
-- [x] About page, with Timeline! 🗣️
-- [x] PageSpeed and w3Validator tests PASSED ✔️
-- [x] Search bar 🔎
-- [x] Next & Previous Post ⏮️ ⏭️
-- [x] Automatic/Manual reading time estimation 🕐
-- [x] Disqus section ✍️ 
-
-
-## Screenshot
-
-![light-theme](https://github.com/DavideBri/Gesko/blob/master/light-theme.jpg)
-![dark-theme](https://github.com/DavideBri/Gesko/blob/master/dark-theme.jpg)
-
-## Installation
-
-Be sure to have all [you need](https://jekyllrb.com/docs/installation/) before running anything. 
-
-Run local server:
-
-```bash
-$ git clone https://github.com/DavideBri/Gesko.git
-$ cd Gesko
-$ bundle install
-$ bundle exec jekyll build
-$ bundle exec jekyll serve
-```
-
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
-If you want to upload it to Github Pages, remember to update the `_congif.yml` and if you are going to upload in a repo called yournickname.github.io, remember to update the `{{ site.baseurl }}` to `{{ site.url }}` .
-Note that there is also a gtag in the [`_layouts/default.html`](https://github.com/DavideBri/Gesko/blob/6776e4afc384dc3d50ce2001715929c8e70a914c/_layouts/default.html#L9), you should remove it.
-
-To create new tag, create a folder in `tag/` with the name of the new one. In this folder add an `index.html` file and just add this header:
-```
----
-layout: tag
-tag: yourNewTag
----
-```
-Then build again and you're ready!!
-
-## Contributing
-
-Yeaaa feel free to open a pull request.
-
-
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE.md).
+<h3>Memozine ✍🏻</h3>
+<p>“<b>备忘杂志</b>” 是 Memorandum 和 Magazine 的组合词语。<br>记录和反思媒介，社会和文化变迁中的具体生活。还写诗和短篇小说。<br>我的文章部分 <a href="https://memozine.me/tag/publish/">发表</a> 在“三联生活周刊”、“腾讯新闻·全媒派”、“豆瓣阅读”等。<br></p>
+<br>
+<h3>About Me 🤖</h3>
+<p>嗨，我是Cody，目前居住在澳大利亚珀斯。热爱写作、阅读，逛公园和晒太阳。<br>现阶段的生活主题是：<b>攒钱、极简生活、停止怀旧、信息戒断。</b><br>欢迎给我 <a href="mailto:memozine.me@outlook.com">写信</a> 。</p>
+<br>
+<h3>Blog 🕐</h3>
+<p>感谢 Github 提供托管服务，Jekyll 提供静态页面渲染，<a href="https://cusdis.com">Cusdis</a> 提供评论功能，<a href="https://buttondown.email/refer/memozine">Buttondown</a> 提供邮箱订阅。博客主题基于 <a href="https://github.com/DavideBri/Gesko">Gesko</a> 调整。</p>
+<br>
+<h3>Donate ☕️</h3>
+<p>你可以免费阅读所有内容，欢迎 <a href="https://memozine.me/donate">投币</a> 支持我和我的博客。</p>
+<br>
+</p>
